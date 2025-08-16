@@ -347,22 +347,22 @@ def scan_and_export_summary(folder_path):
 def summary_csv_to_markdown(csv_path):
     """
     根据 Summary.csv 生成 README.md
-    - 顶部给出“歌手统计”，并注明每位歌手在正文中“从第几行开始”，并可点击跳转
-    - 正文按歌手分区、每首歌按 Name 排序
+    - 顶部给出“歌手统计”，每位歌手名字可点击跳转到正文
+    - 正文按歌手分区，每首歌按 Name 排序
     输出地址：与 CSV 同目录的 README.md
     """
     import os, csv
     from collections import defaultdict
     import re
 
-    # 读取
+    # ---------- 读取 CSV ----------
     records = []
     with open(csv_path, "r", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         for row in reader:
             records.append(row)
 
-    # 分组
+    # ---------- 按歌手分组 ----------
     grouped = defaultdict(list)
     for r in records:
         grouped[r["Singer"]].append(r)
@@ -370,50 +370,44 @@ def summary_csv_to_markdown(csv_path):
     singers = sorted(grouped.keys())
     total_tracks = sum(len(grouped[s]) for s in singers)
 
-    # ---------- 生成正文内容 ---------- 
-    content_lines = []  # 每个元素是一行
-    singer_rel_line = {}  # 歌手 -> 在正文中相对行号
-    singer_anchors = {}   # 歌手 -> 锚点名称
-
-    current_rel = 1
+    # ---------- 生成正文内容 ----------
+    content_lines = []
     for singer in singers:
-        # 生成锚点名（只保留字母、数字和下划线）
-        anchor = re.sub(r'[^0-9a-zA-Z_]', '_', singer)
-        singer_anchors[singer] = anchor
-
-        singer_rel_line[singer] = current_rel  # 标题所在行号
-        content_lines.append(f'<a id="{anchor}"></a>')
         content_lines.append(f"## {singer} (共 {len(grouped[singer])} 首)")
         content_lines.append("")  # 空行
         for r in sorted(grouped[singer], key=lambda x: x["Name"]):
             content_lines.append(f"- {r['Name']} （{r['From']}）")
         content_lines.append("")  # 分段空行
-        current_rel = len(content_lines) + 1
 
-    # ---------- 计算偏移量 ---------- 
-    header_lines_count = 4
-    stats_lines_count = len(singers)
-    tail_after_stats = 3
-    offset = header_lines_count + stats_lines_count + tail_after_stats
-    singer_abs_line = {s: singer_rel_line[s] + offset for s in singers}
+    # ---------- 构建统计表，可点击跳转 ----------
+    def make_anchor(title):
+        """GitHub 风格锚点：小写，非字母数字替换为 -，连续 - 合并"""
+        anchor = title.strip().lower()
+        anchor = re.sub(r'[^0-9a-zA-Z\u4e00-\u9fff]+', '-', anchor)
+        anchor = re.sub(r'-+', '-', anchor).strip('-')
+        return anchor
 
-    # ---------- 组装 Markdown ---------- 
     lines = []
     lines.append("# 🎶 歌手歌曲汇总")
     lines.append("")
     lines.append("## 歌手统计")
     lines.append("")
-
-    for s in singers:
-        lines.append(f"- [{s}](#{singer_anchors[s]})：{len(grouped[s])} 首 （从第 {singer_abs_line[s]} 行开始）")
+    for singer in singers:
+        anchor = make_anchor(f"{singer} (共 {len(grouped[singer])} 首)")
+        lines.append(f"- [{singer}](#{anchor}) ：{len(grouped[singer])} 首")
     lines.append("")
     lines.append(f"**总计：{total_tracks} 首**")
     lines.append("")
+
+    # ---------- 拼接正文 ----------
     lines.extend(content_lines)
 
     output_md = os.path.join(os.path.dirname(csv_path), "README.md")
-    with open(output_md, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines) + "\n")
+       
+    # 删除结尾多余换行
+    with open(output_md, 'rb+') as file:
+        file.seek(-2, os.SEEK_END)
+        file.truncate()
 
     print(f"✅ README.md 已生成: {output_md}")
     return output_md
