@@ -1,0 +1,2014 @@
+# 🎶 歌手歌曲汇总
+
+## 歌手统计
+
+- Aimer：165 首 （从第 26 行开始）
+- Cyberpunk：1 首 （从第 194 行开始）
+- H△G：10 首 （从第 198 行开始）
+- YOASOBI：52 首 （从第 211 行开始）
+- milet：153 首 （从第 266 行开始）
+- 几田莉拉：2 首 （从第 422 行开始）
+- 周杰伦：345 首 （从第 427 行开始）
+- 宇多田光：169 首 （从第 775 行开始）
+- 张杰：213 首 （从第 947 行开始）
+- 新海诚：34 首 （从第 1163 行开始）
+- 林俊杰：267 首 （从第 1200 行开始）
+- 王心凌：53 首 （从第 1470 行开始）
+- 米津玄师：40 首 （从第 1526 行开始）
+- 蔡依林：157 首 （从第 1569 行开始）
+- 西木康智：4 首 （从第 1729 行开始）
+- 邓紫棋：173 首 （从第 1736 行开始）
+- 铃木爱理：60 首 （从第 1912 行开始）
+- 陶喆：37 首 （从第 1975 行开始）
+
+**总计：1935 首**
+
+## Aimer (共 165 首)
+
+- 7月の翼 （Live night）
+- 7月の翼 （CD）
+- 7月の翼 （Live ARIA）
+- 7月の翼 （Live MidnightSun）
+- 7月の翼 （Live Walpurgis）
+- AM02꞉00 （CD）
+- AM02꞉00 （Live blanc）
+- AM02꞉00 （Live bleu）
+- AM02꞉00 （Live night）
+- AM02꞉00 （Live rouge）
+- AM02꞉00 (haruka nakamura La Nuit remix) （CD）
+- AM03꞉00 （CD）
+- AM03꞉00 （Live night）
+- AM04꞉00 （Live night）
+- AM04꞉00 （CD）
+- After Rain （CD）
+- After Rain （Live DAWN）
+- After Rain (Scarlet ver) （CD）
+- After rain （Live Soleil）
+- Brave Shine （CD）
+- Brave Shine （Live blanc）
+- Brave Shine （Live Cycle）
+- Brave Shine （Live DAWN）
+- Brave Shine （Live rouge）
+- Brave Shine （Live Walpurgisncht）
+- Breaking Up Is Hard To Do （CD）
+- Daisy （CD）
+- Daisy （Live bleu）
+- Daisy （Live rouge）
+- HZ （Live Soleil）
+- Hz （CD）
+- Hz （Live bleu）
+- Hz （Live Cycle）
+- Ivy Ivy Ivy （CD）
+- Ivy Ivy Ivy （Live Cycle）
+- LAST STARDUST （CD）
+- LAST STARDUST （Live blanc）
+- LAST STARDUST （Live night）
+- Life is a song （CD）
+- March of Time （CD）
+- March of Time （Live blanc）
+- Noir! Noir! （CD）
+- Noir! Noir! （Live night）
+- ONE （CD）
+- ONE （Live blanc）
+- ONE （Live bleu）
+- ONE （Live Cycle）
+- ONE （Live rouge）
+- ONE （Live Soleil）
+- ONE （Live Walpurgisncht）
+- ONE-epilogue- （CD）
+- RE꞉I AM （CD）
+- RE꞉I AM （Live ARIA）
+- RE꞉I AM （Live blanc）
+- RE꞉I AM （Live bleu）
+- Ref rain （Live Cycle）
+- Refːrain （CD）
+- Refːrain （Live ARIA）
+- Refːrain （Live Soleil）
+- Refːrain (TV Size) （CD）
+- STAND-ALONE （CD）
+- STAND-ALONE （Live rouge）
+- Torches （CD）
+- Torches （Live bleu）
+- Torches （Live rouge）
+- Torches （Live Walpurgis）
+- Torches (TV size) （CD）
+- closer （CD）
+- ever after （Live Walpurgis）
+- ever after （Live Walpurgisncht）
+- for ロンリー （CD）
+- insane dream （CD）
+- my sweetest one （CD）
+- ninelie with chelly (EGOIST) （CD）
+- rubble pile （CD）
+- tone （CD）
+- tone （Live night）
+- tone (Remaster for 星の消えた夜に 2022) （CD）
+- あてもなく （CD）
+- あなたに出会わなければ （Live ARIA）
+- あなたに出会わなければ ～夏雪冬花～ （Live DAWN）
+- あなたに出会わなければ~夏雪冬花~ （CD）
+- あなたに出会わなければ~夏雪冬花~ （Live blanc）
+- あなたに出会わなければ~夏雪冬花~ （Live Cycle）
+- あなたに出会わなければ~夏雪冬花~ （Live Soleil）
+- あなたに出会わなければ~夏雪冬花~ (Live in church ver.) （CD）
+- あなたに出会わなければ～夏雪冬花～ （Live night）
+- おもかげ （CD）
+- カタオモイ （5th Live）
+- カタオモイ （CD）
+- カタオモイ （Live ARIA）
+- カタオモイ （Live blanc）
+- カタオモイ （Live bleu）
+- カタオモイ （Live rouge）
+- カタオモイ （Live Soleil）
+- カタオモイ （Live Walpurgisncht）
+- カタオモイ (5th Anniversary Live ver.) （CD）
+- カタオモイ - From THE FIRST TAKE （CD）
+- コイワズライ （CD）
+- コイワズライ （Live bleu）
+- コイワズライ （Live rouge）
+- コイワズライ （Live Walpurgis）
+- スピカ （Live blanc）
+- セプテンバーさん （CD）
+- トリル （Live night）
+- トリル （Live Walpurgis）
+- トリル （Live Walpurgisncht）
+- トリル -starless night ver.- （CD）
+- ポラリス （CD）
+- ポラリス （Live bleu）
+- ポラリス （Live Cycle）
+- ポラリス （Live rouge）
+- ポラリス [haruka nakamura ursa remix] （CD）
+- 今日から思い出 （CD）
+- 今日から思い出 （Live Soleil）
+- 今日から思い出 (Live in church ver.) （CD）
+- 今日から思い出 Evergreen ver. （CD）
+- 六等星の夜 （CD）
+- 六等星の夜 （Live blanc）
+- 六等星の夜 （Live bleu）
+- 六等星の夜 （Live Cycle）
+- 六等星の夜 (from Live at anywhere) （CD）
+- 冬のダイヤモンド （CD）
+- 地球儀 （CD）
+- 地球儀 （Live Walpurgisncht）
+- 寂しくて眠れない夜 （Live ARIA）
+- 寂しくて眠れない夜は （CD）
+- 寂しくて眠れない夜は (Live in church ver.) （CD）
+- 小さな星のメロディー （CD）
+- 小さな星のメロディー （Live ARIA）
+- 思い出は奇丽で （CD）
+- 思い出は奇丽で （Live Soleil）
+- 悲しみはオーロラに （Live night）
+- 悲しみはオーロラに(Restarred by Takagi Masakatsu) （CD）
+- 星の消えた夜に （CD）
+- 星の消えた夜に （Live bleu）
+- 星の消えた夜に （Live DAWN）
+- 星の消えた夜に （Live night）
+- 星の消えた夜に （Live Walpurgisncht）
+- 星の消えた夜に (Re-echoed by Genki Rockets × give me wallets) （CD）
+- 星屑のビーナス （Live blanc）
+- 星屑ビーナス （CD）
+- 星屑ビーナス(Live in church ver.) （CD）
+- 春はゆく （CD）
+- 春はゆく （Live Walpurgis）
+- 春はゆく (the late spring ver.) （CD）
+- 未行之路 （CD）
+- 残響散歌 （CD）
+- 残響散歌 （Live Walpurgisncht）
+- 白色蜉蝣 （CD）
+- 眠りの森 （CD）
+- 眠りの森 （Live night）
+- 空噪wired （CD）
+- 糸 （CD）
+- 花の唄 （Live blanc）
+- 花びらたちのマーチ （CD）
+- 花びらたちのマーチ （Live Walpurgis）
+- 茜さす （CD）
+- 茜さす （Live Walpurgis）
+- 蝶々結び （CD）
+- 蝶々結び （Live ARIA）
+- 蝶々結び （Live blanc）
+- 蝶々結び （Live Cycle）
+- 蝶々結び （Live night）
+- 蝶々結び （Live Soleil）
+
+## Cyberpunk (共 1 首)
+
+- I Really Want to Stay at Your House （CD）
+
+## H△G (共 10 首)
+
+- Halzion （CD）
+- Halzion （WEB）
+- glow （CD）
+- secret base ～君がくれたもの～ （CD）
+- あの夏、僕らは。 （CD）
+- アイロニ （CD）
+- インタビュア （CD）
+- ハローハロー （CD）
+- 少女たちの終わらない夜 （CD）
+- 心拍数#0822 （CD）
+
+## YOASOBI (共 52 首)
+
+- Biri-Biri （CD）
+- あの夢をなぞって （MV）
+- あの夢をなぞって （1st Live）
+- あの夢をなぞって （CD）
+- たぶん （MV）
+- たぶん （1st Live）
+- たぶん （2nd Live）
+- たぶん （CD）
+- もう少しだけ （2nd Live）
+- もう少しだけ （CD）
+- もう少しだけ （MV）
+- もしも命が描けたら （3rd Live）
+- もしも命が描けたら （CD）
+- もしも命が描けたら （MV）
+- アイドル （CD）
+- アイドル （Live 電光石火）
+- アイドル （MV）
+- アドベンチャー （CD）
+- アドベンチャー （MV）
+- アンコール （1st Live）
+- アンコール （2nd Live）
+- アンコール （3rd Live）
+- アンコール （CD）
+- アンコール （MV）
+- セブンティーン （CD）
+- セブンティーン （MV）
+- ツバメ (feat. ミドリーズ) （CD）
+- ツバメ feat. ミドリーズ （MV）
+- ハルジオン （MV）
+- ハルジオン （1st Live）
+- ハルジオン （2nd Live）
+- ハルジオン （CD）
+- ミスター （CD）
+- ミスター （MV）
+- 優しい彗星 （CD）
+- 優しい彗星 （MV）
+- 夜に駆ける （1st Live）
+- 夜に駆ける （2nd Live）
+- 夜に駆ける （CD）
+- 夜に駆ける （MV）
+- 大正浪漫 （CD）
+- 大正浪漫 （MV）
+- 好きだ （CD）
+- 好きだ （MV）
+- 怪物 （1st Live）
+- 怪物 （2nd Live）
+- 怪物 （CD）
+- 怪物 （MV）
+- 群青 （1st Live）
+- 群青 （2nd Live）
+- 群青 （CD）
+- 群青 （MV）
+
+## milet (共 153 首)
+
+- Again and Again （CD）
+- Again and Again （Live MIRROR）
+- Again and Again （MV）
+- Always You （CD）
+- Always You （Live UNZEPP）
+- Always You （MV）
+- Always You (5am mix) （CD）
+- Anytime Anywhere （CD）
+- Anytime Anywhere （MV）
+- Before The Dawn （Live visions）
+- Before the Dawn （CD）
+- Checkmate （CD）
+- Checkmate （Live SEVENTH）
+- Checkmate （MV）
+- Clan （CD）
+- Clan （Live UNZEPP）
+- Clan （MV）
+- Clan (5am mix) （CD）
+- December （CD）
+- December （MV）
+- Diving Board （CD）
+- Diving Board （Live MIRROR）
+- Diving Board （Live Online）
+- Diving Board （Live UNZEPP）
+- Diving Board （Live 不插电）
+- Dome （CD）
+- Dome （Live SEVENTH）
+- Drown （CD）
+- Drown （Live MIRROR）
+- Drown （Live Online）
+- Drown （MV）
+- Final Call （CD）
+- Final Call （MV）
+- Fine Line （CD）
+- Fine Line （Live Online）
+- Fine Line （Live visions）
+- Fine Line （Live 不插电）
+- Fire Arrow （CD）
+- Fire Arrow （Live Online）
+- Fire Arrow （Live SEVENTH）
+- Fire Arrow （MV）
+- Flare （CD）
+- Flare （Live MIRROR）
+- Flare （Live visions）
+- Flare （MV）
+- Fly High （CD）
+- Fly High （Live MIRROR）
+- Fly High （MV）
+- HELL CLUB （CD）
+- Hey Song （CD）
+- Hey Song （MV）
+- Hit the Lights （CD）
+- I Gotta Go （CD）
+- I Gotta Go （Live UNZEPP）
+- Inside You （CD）
+- Inside You （Live MIRROR）
+- Inside You （Live Online）
+- Inside You （Live SEVENTH）
+- Inside You （Live visions）
+- Inside You （THE HOME TAKE）
+- Inside you （Live UNZEPP）
+- Into the Mirror （CD）
+- Into the Mirror （Live MIRROR）
+- Into the mirror （Live UNZEPP）
+- Jam （CD）
+- Jam （Live visions）
+- Loved By You （CD）
+- Loved By You （Live visions）
+- Noёl In July （CD）
+- One Reason （CD）
+- One Reason （Live visions）
+- One Reason （MV）
+- One Touch （CD）
+- One Touch （MV）
+- Ordinary Days （CD）
+- Ordinary Days （Live SEVENTH）
+- Ordinary Days （Live visions）
+- Ordinary Days （MV）
+- Ordinary days （Live UNZEPP）
+- Outsider （CD）
+- Outsider （Live UNZEPP）
+- Outsider （Live visions）
+- Parachute （CD）
+- Parachute （Live Online）
+- Prover （CD）
+- Prover （Live MIRROR）
+- Prover （Live 不插电）
+- Prover （MV）
+- Red Neon （CD）
+- Red Neon （Live UNZEPP）
+- Red Neon （Live 不插电）
+- SEVENTH HEAVEN （CD）
+- SEVENTH HEAVEN （Live MIRROR）
+- SEVENTH HEAVEN （Live UNZEPP）
+- SEVENTH HEAVEN （Live visions）
+- STAY （CD）
+- STAY （Live 不插电）
+- Shed A Light （CD）
+- Shed A Light （Live visions）
+- Shed A Light （MV）
+- Tell Me （CD）
+- Tell Me （MV）
+- The Hardest （CD）
+- The Hardest （Live visions）
+- The Hardest （Live 不插电）
+- The Hardest （MV）
+- The Love We Have Made （Live 不插电）
+- The Love We've Made （CD）
+- The Love We've Made （Live SEVENTH）
+- The Love We've Made （MV）
+- Undone （CD）
+- Undone （Live Online）
+- Undone （Live 不插电）
+- Undone （MV）
+- Wake Me Up （CD）
+- Wake Me Up （Live SEVENTH）
+- Wake Me Up （Live visions）
+- Wake Me Up （MV）
+- Walkin' In My Lane （CD）
+- Walkin' In My Lane （MV）
+- Walkin’ In My Lane （Live MIRROR）
+- Walkin’ In My Lane （Live UNZEPP）
+- Waterfall （CD）
+- Waterfall （Live SEVENTH）
+- Who I Am （CD）
+- Who I Am （Live MIRROR）
+- Who I Am （MV）
+- Without Your Love （CD）
+- Wonderland （CD）
+- Wonderland （Live Online）
+- You & I （CD）
+- You & I （Live MIRROR）
+- You & I （Live Online）
+- You & I （MV）
+- You made it （CD）
+- Your Light （CD）
+- Your Light （Live MIRROR）
+- b r o k e n （CD）
+- inside You （MV）
+- us （CD）
+- us （Live MIRROR）
+- us （Live Online）
+- us （Live SEVENTH）
+- us （Live UNZEPP）
+- us （Live visions）
+- us （MV）
+- us （THE Home TAKE）
+- us_Encore （Live Online）
+- おもかげ （CD）
+- 絆ノ奇跡 （CD）
+- 絆ノ奇跡_CD （MV）
+- 航海前夜 （CD）
+- 航海前夜 （Live Online）
+
+## 几田莉拉 (共 2 首)
+
+- ヒカリ （CD）
+- レンズ （CD）
+
+## 周杰伦 (共 345 首)
+
+- Mine Mine （CD）
+- Mine Mine （Live 2013）
+- Mine Mine （MV）
+- Mojito （CD）
+- Mojito （MV）
+- Now You See Me （CD）
+- Now You See Me （Live 2016）
+- 一口气全念对 （CD）
+- 一口气全念对 （MV）
+- 一点点 （CD）
+- 一点点 （MV）
+- 一路向北 （CD）
+- 一路向北 （MV）
+- 七里香 （CD）
+- 七里香 （Live 2004）
+- 七里香 （MV）
+- 三年二班 （CD）
+- 三年二班 （MV）
+- 不能说的秘密 （Live 2007）
+- 不该 （CD）
+- 不该 （MV）
+- 世界末日 （CD）
+- 东风破 （CD）
+- 东风破 （Live 2004）
+- 东风破 （Live 2010）
+- 东风破 （MV）
+- 乌克丽丽 （CD）
+- 乌克丽丽 （MV）
+- 乔克叔叔 （CD）
+- 乔克叔叔 （MV）
+- 乱舞春秋 （CD）
+- 乱舞春秋 （Live 2004）
+- 乱舞春秋 （MV）
+- 以父之名 （CD）
+- 以父之名 （Live 2004）
+- 以父之名 （Live 2010）
+- 以父之名 （Live 2016）
+- 以父之名 （MV）
+- 你听得到 （CD）
+- 你听得到 （Live 2004）
+- 你听得到 （MV）
+- 你怎么连话都说不清楚 （Live 2002）
+- 依然范特西 （Album）
+- 倒带 （Live 2004）
+- 借口 （CD）
+- 借口 （Live 2004）
+- 借口 （MV）
+- 免费教学录影带 （CD）
+- 免费教学录影带 （MV）
+- 公公偏头痛 （CD）
+- 公公偏头痛 （MV）
+- 兰亭序 （CD）
+- 兰亭序 （MV）
+- 前世情人 （CD）
+- 前世情人 （MV）
+- 千里之外 （CD）
+- 千里之外 （Live 2007）
+- 千里之外 （MV）
+- 半岛铁盒 （CD）
+- 半岛铁盒 （Live 2002）
+- 半岛铁盒 （MV）
+- 印第安老斑鸠 （CD）
+- 印第安老斑鸠 （Live 2016）
+- 印第安老斑鸠 （MV）
+- 双刀 （CD）
+- 双刀 （MV）
+- 双刀+双截棍+龙拳 （Live 2004）
+- 双截棍 （CD）
+- 双截棍 （Live 2002）
+- 双截棍 （Live 2013）
+- 双截棍 （Live 2016）
+- 双截棍 （MV）
+- 反方向的钟 （CD）
+- 反方向的钟 （MV）
+- 发如雪 （CD）
+- 发如雪 （Live 2007）
+- 发如雪 （MV）
+- 可爱女人 （CD）
+- 可爱女人 （MV）
+- 同一种调调 （CD）
+- 同一种调调 （MV）
+- 听妈妈的话 （CD）
+- 听妈妈的话 （Live 2007）
+- 听妈妈的话 （MV）
+- 听爸爸的话 （CD）
+- 听爸爸的话 （MV）
+- 告白气球 （CD）
+- 告白气球 （Live 2016）
+- 告白气球 （MV）
+- 周大侠 （Live 2007）
+- 周大侠 （MV）
+- 哪里都是你 （CD）
+- 哪里都是你 （MV）
+- 四面楚歌 （CD）
+- 四面楚歌 （MV）
+- 回到过去 （CD）
+- 回到过去 （Live 2002）
+- 回到过去 （Live 2004）
+- 回到过去 （MV）
+- 园游会 （CD）
+- 园游会 （Live 2004）
+- 园游会 （MV）
+- 土耳其冰淇淋 （CD）
+- 土耳其冰淇淋 （MV）
+- 外婆 （CD）
+- 外婆 （Live 2004）
+- 外婆 （MV）
+- 夜曲 （CD）
+- 夜曲 （MV）
+- 夜的第七章 （CD）
+- 夜的第七章 （MV）
+- 大笨钟 （CD）
+- 大笨钟 （MV）
+- 大笨钟+暗号+彩虹+龙卷风 （Live 2016）
+- 天台 （Live 2013）
+- 天台的月光 （CD）
+- 天涯过客 （CD）
+- 天涯过客 （MV）
+- 她的睫毛 （CD）
+- 她的睫毛 （Live 2004）
+- 她的睫毛 （MV）
+- 威廉古堡 （CD）
+- 威廉古堡 （MV）
+- 安静 （CD）
+- 安静 （Live 2002）
+- 安静 （MV）
+- 完美主义 （CD）
+- 完美主义 （MV）
+- 对不起 （CD）
+- 将军 （CD）
+- 将军 （Live 2004）
+- 将军 （MV）
+- 屋顶 （CD）
+- 床边故事 （CD）
+- 床边故事 （Live 2016）
+- 床边故事 （MV）
+- 开不了口 （CD）
+- 开不了口 （Live 2002）
+- 开不了口 （Live 2010）
+- 开不了口 （Live 2013）
+- 开不了口 （Live 2016）
+- 开不了口 （MV）
+- 彩虹 （CD）
+- 彩虹 （MV）
+- 彩虹+轨迹 （Live 2013）
+- 心雨 （CD）
+- 心雨 （MV）
+- 忍者 （CD）
+- 忍者 （Live 2002）
+- 忍者 （MV）
+- 怎么了 （CD）
+- 怎么了 （MV）
+- 我不配 （MV）
+- 我不配(距离) （CD）
+- 我的地盘 （CD）
+- 我的地盘 （Live 2004）
+- 我的地盘 （MV）
+- 我要夏天 （CD）
+- 我要夏天 （Live 2016）
+- 我要夏天 （MV）
+- 扯 （CD）
+- 扯 （MV）
+- 搁浅 （CD）
+- 搁浅 （Live 2004）
+- 搁浅 （MV）
+- 斗牛 （CD）
+- 斗牛 （Live 2002）
+- 斗牛 （MV）
+- 断了的弦 （CD）
+- 断了的弦 （Live 2004）
+- 断了的弦 （MV）
+- 时光机 （CD）
+- 时光机 （MV）
+- 明明就 （CD）
+- 明明就 （MV）
+- 星晴 （CD）
+- 星晴 （Live 2002）
+- 星晴 （Live 2004）
+- 星晴 （MV）
+- 晴天 （CD）
+- 晴天 （Live 2004）
+- 晴天 （MV）
+- 暗号 （CD）
+- 暗号 （Live 2002）
+- 暗号 （MV）
+- 最伟大的作品 （CD）
+- 最伟大的作品 （MV）
+- 最长的电影 （CD）
+- 最长的电影 （Live 2007）
+- 最长的电影 （MV）
+- 本草纲目 （CD）
+- 本草纲目 （MV）
+- 枫 （CD）
+- 枫 （MV）
+- 梦想启动 （CD）
+- 梦想启动 （MV）
+- 梯田 （CD）
+- 梯田 （MV）
+- 比较大的大提琴 （CD）
+- 比较大的大提琴 （Live 2013）
+- 比较大的大提琴 （MV）
+- 水手怕水 （CD）
+- 水手怕水 （MV）
+- 流浪诗人 （CD）
+- 浪漫手机 （CD）
+- 浪漫手机 （MV）
+- 烟花易冷 （CD）
+- 烟花易冷 （MV）
+- 爱你没差 （CD）
+- 爱你没差 （MV）
+- 爱在西元前 （CD）
+- 爱在西元前 （Live 2002）
+- 爱在西元前 （Live 2010）
+- 爱在西元前 （MV）
+- 爱情悬崖 （CD）
+- 爱情悬崖 （Live 2004）
+- 爱情悬崖 （MV）
+- 爱我别走 （Live 2004）
+- 爱的飞行日记 （CD）
+- 爱的飞行日记 （Live 2010）
+- 爷爷泡的茶 （CD）
+- 爷爷泡的茶 （Live 2002）
+- 爷爷泡的茶 （Live 2016）
+- 爷爷泡的茶 （MV）
+- 牛仔很忙 （CD）
+- 牛仔很忙 （Live 2007）
+- 牛仔很忙 （MV）
+- 狗仔舞 （CD）
+- 珊瑚海 （CD）
+- 珊瑚海 （MV）
+- 甜甜的 （CD）
+- 甜甜的 （Live 2007）
+- 画沙 （CD）
+- 画沙 （MV）
+- 白色风车 （CD）
+- 白色风车 （Live 2007）
+- 白色风车 （MV）
+- 皮影戏 （CD）
+- 皮影戏 （MV）
+- 稻香 （CD）
+- 稻香 （MV）
+- 窃爱 （CD）
+- 窃爱 （MV）
+- 简单爱 （CD）
+- 简单爱 （Live 2002）
+- 简单爱 （Live 2004）
+- 简单爱 （MV）
+- 算什么男人 （CD）
+- 算什么男人 （MV）
+- 米兰的小铁匠 （CD）
+- 米兰的小铁匠 （MV）
+- 粉色海洋 （CD）
+- 粉色海洋 （MV）
+- 红尘客栈 （CD）
+- 红尘客栈 （MV）
+- 红模仿 （CD）
+- 红模仿 （MV）
+- 红颜如霜 （CD）
+- 红颜如霜 （MV）
+- 给我一首歌的时间 （CD）
+- 给我一首歌的时间 （MV）
+- 美人鱼 （CD）
+- 美人鱼 （Live 2016）
+- 自导自演 （CD）
+- 自导自演 （MV）
+- 花海 （CD）
+- 花海 （MV）
+- 英雄 （CD）
+- 英雄 （Live 2016）
+- 英雄 （MV）
+- 菊花台 （CD）
+- 菊花台 （Live 2007）
+- 菊花台 （MV）
+- 菊花台_钢琴演奏版 （CD）
+- 蒲公英的约定 （CD）
+- 蒲公英的约定 （Live 2007）
+- 蛇舞 （CD）
+- 蛇舞 （MV）
+- 蜗牛 （CD）
+- 说好不哭 （CD）
+- 说好不哭 （MV）
+- 说好的幸福呢 （CD）
+- 说好的幸福呢 （MV）
+- 说走就走 （CD）
+- 说走就走 （MV）
+- 超跑女神 （CD）
+- 超跑女神 （MV）
+- 轨迹 （CD）
+- 轨迹 （Live 2004）
+- 轨迹 （MV）
+- 还在流浪 （CD）
+- 还在流浪 （MV）
+- 迷迭香 （CD）
+- 迷迭香 （MV）
+- 迷魂曲 （CD）
+- 迷魂曲 （MV）
+- 退后 （CD）
+- 退后 （Live 2007）
+- 退后 （MV）
+- 错过的烟火 （CD）
+- 错过的烟火 （MV）
+- 阳光宅男 （CD）
+- 阳光宅男 （Live 2007）
+- 阳光宅男 （MV）
+- 阳明山 （CD）
+- 阳明山 （MV）
+- 雨下一整晚 （CD）
+- 雨下一整晚 （Live 2010）
+- 雨下一整晚 （MV）
+- 霍元甲 （CD）
+- 霍元甲 （Live 2007）
+- 霍元甲 （MV）
+- 青花瓷 （CD）
+- 青花瓷 （Live 2013）
+- 青花瓷 （MV）
+- 鞋子特大号 （CD）
+- 鞋子特大号 （Live 2016）
+- 鞋子特大号 （MV）
+- 魔术先生 （CD）
+- 魔术先生 （Live 2010）
+- 魔术先生 （MV）
+- 魔杰座 （Album）
+- 麦芽糖 （CD）
+- 麦芽糖 （Live 2007）
+- 麦芽糖 （MV）
+- 黄金甲 （CD）
+- 黄金甲 （MV）
+- 黑色幽默 （CD）
+- 黑色幽默 （Live 2002）
+- 黑色幽默 （MV）
+- 黑色毛衣 （CD）
+- 黑色毛衣 （MV）
+- 龙卷风 （CD）
+- 龙卷风 （Live 2002）
+- 龙卷风 （Live 2004）
+- 龙卷风 （Live 2010）
+- 龙卷风 （Live 2013）
+- 龙卷风 （MV）
+- 龙战骑士 （CD）
+- 龙战骑士 （Live 2010）
+- 龙战骑士 （MV）
+- 龙拳 （CD）
+- 龙拳 （Live 2002）
+- 龙拳 （Live 2013）
+- 龙拳 （MV）
+
+## 宇多田光 (共 169 首)
+
+- About Me （CD）
+- About Me (Live Version) （CD）
+- Addicted To You （Live BOHEMIAN）
+- Addicted To You （Live UNITED）
+- Addicted To You （Live 不插电）
+- Addicted To You （MV）
+- Addicted To You [UP-IN-HEAVEN MIX] （CD）
+- Addicted To you （Live Budokan）
+- Automatic （CD）
+- Automatic （Live BOHEMIAN）
+- Automatic （Live Budokan）
+- Automatic （Live Flesh）
+- Automatic （Live Laughter）
+- Automatic （Live Luv）
+- Automatic （Live Natural）
+- Automatic （Live SCIENCE）
+- Automatic （Live UNITED）
+- Automatic （Live WILD）
+- Automatic （Live 不插电）
+- Automatic （MV）
+- BADモード （MV）
+- BADモード （Live SCIENCE）
+- BADモード （CD）
+- BADモード (Live Version) （CD）
+- Beautiful World （Live SCIENCE）
+- Beautiful World （Live WILD）
+- Beautiful World （MV）
+- Beautiful World (2021 Remastered) （CD）
+- Beautiful World (Da Capo Version) （CD）
+- Beautiful World (Da Capo Version) (Live Version) （CD）
+- Beautiful World (PLANiTb Acoustica Mix [2021 Remastered]) （CD）
+- COLORS （CD）
+- COLORS （Live Budokan）
+- COLORS （Live Laughter）
+- COLORS （Live SCIENCE）
+- COLORS （Live UNITED）
+- COLORS （Live WILD）
+- COLORS （MV）
+- Can You Keep A Secret （CD）
+- Can You Keep A Secret （Live Budokan）
+- Can You Keep A Secret （MV）
+- Come Back To Me （CD）
+- Come Back To Me （Live Flesh）
+- Come Back To Me （MV）
+- Come Back To Me (Quentin Harris Radio Edit) （CD）
+- Come Back To Me (Seamus Haji & Paul Emanuel Radio Edit) （CD）
+- DISTANCE （CD）
+- DISTANCE （Live Budokan）
+- FINAL DISTANCE （CD）
+- FINAL DISTANCE （Live UNITED）
+- FINAL DISTANCE （Live 不插电）
+- FINAL DISTANCE （MV）
+- Face My Fears (A. G. Cook Remix) （MV）
+- Face My Fears (English Version) （CD）
+- Face My Fears (English Version) (Live Version) （CD）
+- Face My Fears (Japanese Version) （CD）
+- Face My Fears (Japanese Version) (Live Version) （CD）
+- Find Love （CD）
+- Find Love (Live Version) （CD）
+- First Love （CD）
+- First Love （Live BOHEMIAN）
+- First Love （Live Budokan）
+- First Love （Live Flesh）
+- First Love （Live Laughter）
+- First Love （Live Natural）
+- First Love （Live SCIENCE）
+- First Love （Live UNITED）
+- First Love （Live WILD）
+- First Love （Live 不插电）
+- First love （MV）
+- Flavor Of Life-Ballad Version- （CD）
+- Flavor Of Live - Ballad Versio - （Live WILD）
+- Gold ～また逢う日まで～ （CD）
+- Gold ～また逢う日まで～ （MV）
+- Goodbye Happiness （CD）
+- Goodbye Happiness （Live Laughter）
+- Goodbye Happiness （Live WILD）
+- Goodbye Happiness （MV）
+- HEART STATION （CD）
+- HEART STATION （MV）
+- Hotel Lobby （CD）
+- Hotel Lobby (Live Version) （CD）
+- Kiss & Cry （CD）
+- Kiss & Cry （Live Laughter）
+- Kiss & Cry （Live SCIENCE）
+- Letter （Live Budokan）
+- Letters （CD）
+- Letters （Live SCIENCE）
+- Movin' on withou you （Live BOHEMIAN）
+- Movin' on without you （CD）
+- Movin' on without you （Live Budokan）
+- Movin' on without you （Live Luv）
+- Movin' on without you （Live UNITED）
+- Movin' on without you （MV）
+- On And On （CD）
+- One Last Kiss （CD）
+- One Last Kiss （Live SCIENCE）
+- One Last Kiss （MV）
+- One Last Kiss (Live Version) （CD）
+- PINK BLOOD （CD）
+- PINK BLOOD （MV）
+- PINK BLOOD (Live Version) （CD）
+- Passion （Live UNITED）
+- Passion (Single Version) （CD）
+- Play A Love Song （CD）
+- Play A Love Song （Live Laughter）
+- Prisoner Of Love （CD）
+- Prisoner Of Love （Live Laughter）
+- Prisoner Of Love （Live WILD）
+- Prisoner Of Love （MV）
+- Stay Gold （CD）
+- Stay Gold （Live Flesh）
+- Stay Gold （Live SCIENCE）
+- Stay Gold （Live WILD）
+- This Is Love （Live UNITED）
+- Time （CD）
+- Time （MV）
+- Time (Live Version) （CD）
+- Too Proud Featuring Jevon （CD）
+- time will tell （CD）
+- time will tell （Live BOHEMIAN）
+- time will tell （Live Luv）
+- time will tell （Live Natural）
+- time will tell （Live SCIENCE）
+- time will tell （Live WILD）
+- traveling （CD）
+- traveling （Live Budokan）
+- traveling （Live Laughter）
+- traveling （Live SCIENCE）
+- traveling （Live UNITED）
+- traveling （Live WILD）
+- traveling （MV）
+- あなた （CD）
+- あなた （Live Laughter）
+- あなた （Live SCIENCE）
+- あなた （MV）
+- ともだち （CD）
+- ともだち （Live Laughter）
+- キレイな人 (Find Love) （CD）
+- タイム・リミット （CD）
+- タイム・リミット （MV）
+- 俺の彼女 （CD）
+- 俺の彼女 （Live Laughter）
+- 光 （CD）
+- 光 （Live Budokan）
+- 光 （Live Laughter）
+- 光 （Live SCIENCE）
+- 光 （Live UNITED）
+- 光 （Live WILD）
+- 光 （MV）
+- 初恋 （CD）
+- 初恋 （Live Laughter）
+- 初恋 （MV）
+- 君に夢中 （CD）
+- 君に夢中 （Live SCIENCE）
+- 君に夢中 （MV）
+- 君に夢中 (Live Version) （CD）
+- 日曜の朝 （CD）
+- 花束を君に （CD）
+- 花束を君に （Live Laughter）
+- 花束を君に （Live SCIENCE）
+- 花束を君に （MV）
+- 荒野の狼 （CD）
+- 虹色バス （CD）
+- 虹色バス （Live WILD）
+- 誰にも言わない （CD）
+- 誰にも言わない (Live Version) （CD）
+- 道 （CD）
+- 道 （Live Laughter）
+
+## 张杰 (共 213 首)
+
+- Adrenaline （CD）
+- Intro + 最美的太阳 （Live 巡回演唱会 鸟巢站）
+- Layla蕾拉 （CD）
+- Layla蕾拉 （Live 2023线上）
+- Layla蕾拉 （Live 2023跨年）
+- Layla蕾拉 （MV）
+- My Sunshine + 回忆的独奏 + 他不懂 （Live 巡回演唱会 鸟巢站）
+- My Sunshine+你在哪里+他不懂+如果爱+第一夫人+花手绢+秋天的童话 （Live 巡回演唱会 上海站）
+- Perfume （CD）
+- Perfume （Live 巡回演唱会 上海站）
+- Perfume （MV）
+- Pretty White Lies （CD）
+- Pretty White Lies （Live 巡回演唱会 上海站）
+- Pretty White Lies （Live 巡回演唱会 鸟巢站）
+- She's Hot （CD）
+- She's Hot （Live 2024跨年）
+- 一个人的远方 （CD）
+- 一个人的远方 （Live 2024跨年）
+- 一切都值得 （Live 巡回演唱会 上海站）
+- 一路之下 （Live 2021海口）
+- 一路之下 （Live 2023线上）
+- 一路之下 （Live 2024跨年）
+- 一路之下 （Live 巡回演唱会 上海站）
+- 一路之下 （Live 巡回演唱会 鸟巢站）
+- 万物不如你 （CD）
+- 万物不如你 （Live 2023跨年）
+- 万物不如你 （Live 2024跨年）
+- 万物不如你 （MV）
+- 三生三世 （CD）
+- 三生三世 （Live 2021海口）
+- 三生三世 （Live 2023线上）
+- 三生三世 （Live 2024跨年）
+- 不眠之夜 （CD）
+- 不眠之夜 （Live 2024跨年）
+- 不眠之夜 （MV）
+- 为你而战 （CD）
+- 为你而战 （MV）
+- 九妹 （Live 巡回演唱会 鸟巢站）
+- 习惯了 （CD）
+- 云中的Angel （CD）
+- 云中的Angel （Live 2014）
+- 云中的Angel （Live 2023线上）
+- 云中的Angel （Live Just For Star）
+- 云中的Angle （Live 2023跨年）
+- 云中的Angle （Live 2024跨年）
+- 今生今世 （CD）
+- 今生今世 （Live 2021海口）
+- 今生今世 （Live Just For Star）
+- 今生最爱 （CD）
+- 他不懂 （CD）
+- 他不懂 （Live 2021海口）
+- 他不懂 （Live 2023跨年）
+- 他不懂 （Live 2024跨年）
+- 他不懂 （Live Just For Star）
+- 他不懂 （MV）
+- 他不爱我 （CD）
+- 仰望星空 （Live 2023线上）
+- 仰望星空 （Live 2024跨年）
+- 仰望星空 （Live 巡回演唱会 上海站）
+- 仰望星空 （Live 巡回演唱会 鸟巢站）
+- 何必在一起 （CD）
+- 何必在一起 （Live 2024跨年）
+- 何必在一起 （Live Just For Star）
+- 何必在一起 （MV）
+- 做梦 （CD）
+- 做梦 （Live 巡回演唱会 上海站）
+- 再爱我一回 （CD）
+- 再爱我一回 （MV）
+- 再生之地 （CD）
+- 再生之地 （Live 2024跨年）
+- 再生之地 （MV）
+- 出嫁 （时光音乐会S01）
+- 剑心 （CD）
+- 剑心 （Live 2024跨年）
+- 剑心 （Live Just For Star）
+- 勿忘心安 （Live 2021海口）
+- 勿忘心安 （Live 2023线上）
+- 勿忘心安 （Live 2023跨年）
+- 勿忘心安 （Live 2024跨年）
+- 勿忘心安 （Live 巡回演唱会 上海站）
+- 北斗星的爱 （Live 2014）
+- 北斗星的爱 （Live 2024跨年）
+- 北斗星的爱 （Live 巡回演唱会 鸟巢站）
+- 北斗星的爱 （时光音乐会S01）
+- 半梦半醒之间 （时光音乐会S01）
+- 只要平凡 （CD）
+- 只要平凡 （Live 2023线上）
+- 只要平凡 （MV）
+- 回忆的独奏 （CD）
+- 因为爱情来得不容易 （CD）
+- 天上掉下个林妹妹 （Live 巡回演唱会 鸟巢站）
+- 天下 （CD）
+- 天下 （Live 2021海口）
+- 天下 （Live 2023线上）
+- 天下 （Live 2023跨年）
+- 天下 （Live 2024跨年）
+- 天下 （Live Just For Star）
+- 天下 （MV）
+- 天下 + 如歌 （Live 巡回演唱会 鸟巢站）
+- 天下+如歌+剑心+三生三世 （Live 巡回演唱会 上海站）
+- 奔腾 （CD）
+- 奔腾 （MV）
+- 好想大声说爱你 （Live 巡回演唱会 鸟巢站）
+- 如果爱 + 第一夫人 + 花手绢 + 秋天的童话 （Live 巡回演唱会 鸟巢站）
+- 如歌 （CD）
+- 如歌 （MV）
+- 少年中国说 （CD）
+- 少年中国说 （Live 2021海口）
+- 少年中国说 （Live 2023线上）
+- 少年中国说 （Live 2023跨年）
+- 少年中国说 （Live 2024跨年）
+- 少年中国说 （Live 巡回演唱会 上海站）
+- 少年中国说 （Live 巡回演唱会 鸟巢站）
+- 岁月神偷 （Live 2024跨年）
+- 平行线 （CD）
+- 年轻人 （CD）
+- 年轻人 （MV）
+- 年轻的战场 （Live 2021海口）
+- 年轻的战场 （Live 2023跨年）
+- 很奇怪我爱你 （CD）
+- 微笑 （Live 2014）
+- 我们都一样 （CD）
+- 我们都一样 （Live 2014）
+- 我们都一样 （Live 2021海口）
+- 我们都一样 （Live 2023跨年）
+- 我们都一样 （Live 2024跨年）
+- 我们都一样 （Live Just For Star）
+- 我们都一样 （Live 巡回演唱会 鸟巢站）
+- 我们都一样 （时光音乐会S01）
+- 我们都一样(回忆版) （CD）
+- 我是来揍你的 （CD）
+- 指望 （时光音乐会S01）
+- 明天过后 （CD）
+- 明天过后 （Live 2014）
+- 明天过后 （Live 2023跨年）
+- 明天过后 （Live 2024跨年）
+- 明天过后 （Live Just For Star）
+- 明天过后 （Live 巡回演唱会 上海站）
+- 明天过后 （MV）
+- 春天花会开 （时光音乐会S01）
+- 最接近天堂的地方 （CD）
+- 最接近天堂的地方 （Live 2024跨年）
+- 最接近天堂的地方 （Live 巡回演唱会 上海站）
+- 最接近天堂的地方 （Live 巡回演唱会 鸟巢站）
+- 最接近天堂的地方 （MV）
+- 最熟悉的陌生人 （Live 2021海口）
+- 最熟悉的陌生人 （Live 2023跨年）
+- 最熟悉的陌生人 （时光音乐会S01）
+- 最美的太阳 （CD）
+- 最美的太阳 （Live 2008）
+- 最美的太阳 （Live 2023线上）
+- 最美的太阳 （Live 2024跨年）
+- 最美的太阳 （MV）
+- 月亮之上 （时光音乐会S01）
+- 来我家 （CD）
+- 浩瀚 （CD）
+- 潜行者 （CD）
+- 潜行者 （MV）
+- 火鸟 （CD）
+- 燕归巢 （CD）
+- 燕归巢 （Live 巡回演唱会 鸟巢站）
+- 爱的光芒 （CD）
+- 爱的光芒 （MV）
+- 爱，不解释 （Live 2024跨年）
+- 留言 （CD）
+- 看月亮爬上來 （CD）
+- 看月亮爬上来 （Live 2023线上）
+- 看月亮爬上来 （Live 2023跨年）
+- 看月亮爬上来 （Live 2024跨年）
+- 看月亮爬上来 （Live Just For Star）
+- 看月亮爬上来 （MV）
+- 着魔 （Live 2023跨年）
+- 穿堂风 （CD）
+- 穿堂风 （MV）
+- 突然想爱你 （CD）
+- 给女儿的一封信 （CD）
+- 给女儿的一封信 （Live 巡回演唱会 上海站）
+- 给女儿的一封信 （Live 巡回演唱会 鸟巢站）
+- 美梦成真 （时光音乐会S01）
+- 花手绢 （CD）
+- 花手绢 （MV）
+- 街角的祝福 （CD）
+- 街角的祝福 （MV）
+- 街角的祝福 （时光音乐会S01）
+- 说散就散 （Live 巡回演唱会 上海站）
+- 谁的眼泪在飞 （时光音乐会S01）
+- 身骑白马 （Live 2023跨年）
+- 身骑白马 （Live 2024跨年）
+- 轻舟 （Live 2024跨年）
+- 这，就是爱 （CD）
+- 这，就是爱 （Live 巡回演唱会 上海站）
+- 这，就是爱 （MV）
+- 迷离 （CD）
+- 追光者 （Live 2023跨年）
+- 追风赶月的人 （CD）
+- 追风赶月的人 （MV）
+- 逆态度 （CD）
+- 逆态度 （MV）
+- 逆战 （CD）
+- 逆战 （Live 2021海口）
+- 逆战 （Live Just For Star）
+- 逆战 （Live 巡回演唱会 鸟巢站）
+- 逆战 （MV）
+- 逆战·十年 （CD）
+- 闹啥子嘛闹 （Live 巡回演唱会 上海站）
+- 闹啥子嘛闹 （Live 巡回演唱会 鸟巢站）
+- 雪龙吟 （CD）
+- 雪龙吟 （Live 2023线上）
+- 雪龙吟 （MV）
+- 高飞 （CD）
+- 高飞 （Live 2021海口）
+- 高飞 （Live Just For Star）
+- 鲜艳的狂想 （Live 2024跨年）
+
+## 新海诚 (共 34 首)
+
+- A Rainy Morning ~Epilogue~ （CD）
+- A Rainy Morning ~Main Title~ （CD）
+- Greenery Rain （CD）
+- Rain （CD）
+- Rain (Long Ver.) -Extra Track- （CD）
+- かたわれ時 （CD）
+- すずめ (feat. 十明) （2022 Live）
+- すずめ (feat. 十明) （CD）
+- なんでもないや (movie edit.) （CD）
+- なんでもないや (movie ver.) （CD）
+- ふたたびの、雨 （CD）
+- グランドエスケープ (Movie Edit) feat.三浦透子 （CD）
+- グランドエスケープ feat.三浦透子 （CD）
+- スパークル (movie ver.) （CD）
+- デート2 （CD）
+- 三葉のテーマ （CD）
+- 三葉の通学 （CD）
+- 前前前世 (movie ver.) （CD）
+- 口噛み酒トリップ （CD）
+- 夢灯籠 （CD）
+- 家族の時間 （CD）
+- 御宅訪問 （CD）
+- 愛にできることはまだあるかい （CD）
+- 愛にできることはまだあるかい (Movie Edit) （CD）
+- 晴れゆく空 （CD）
+- 晴天と喪失 （CD）
+- 東京上空 （CD）
+- 決意～旅立ち （CD）
+- 祝祭 (Movie Edit) feat.三浦透子 （CD）
+- 祝祭 feat.三浦透子 （CD）
+- 糸守高校 （CD）
+- 花火大会 （CD）
+- 陽菜と、走る穂高 （CD）
+- 飛騨探訪 （CD）
+
+## 林俊杰 (共 267 首)
+
+- 7千3百多天 （CD）
+- Always Online （CD）
+- Castle In The Air （MV）
+- Castle in the Air （CD）
+- In The Joy （CD）
+- Lamando （CD）
+- Lamando （Live 新地球）
+- Lamando （MV）
+- Our Singapore （CD）
+- Our Singapore （MV）
+- Show The World （CD）
+- Show The World （Live 圣所2.0）
+- The Show （CD）
+- The Show （MV）
+- We Together （CD）
+- We Together （MV）
+- X （CD）
+- X （Live I AM）
+- X （Live 小巨蛋）
+- X （MV）
+- 一千年以前 （CD）
+- 一千年以后 （CD）
+- 一千年以后 （Live I AM）
+- 一千年以后 （Live 小巨蛋）
+- 一千年以后 （Live 就是林俊杰）
+- 一千年以后 （Live 新地球）
+- 一千年以后 （MV）
+- 一时的选择 （CD）
+- 一时的选择 （MV）
+- 一眼万年 （CD）
+- 不为谁而作的歌 （CD）
+- 不为谁而作的歌 （Live After The Rain）
+- 不为谁而作的歌 （Live Sanctuary Final）
+- 不为谁而作的歌 （Live 新地球）
+- 不为谁而做的歌 （MV）
+- 不懂 （CD）
+- 不懂 （MV）
+- 不死之身 （CD）
+- 不死之身 （MV）
+- 不潮不用花钱 （CD）
+- 不潮不用花钱 （Live I AM）
+- 不潮不用花钱 （Live 小巨蛋）
+- 不潮不用花钱 （MV）
+- 丹宁执着 （Live 圣所2.0）
+- 主角 （CD）
+- 主角 （Live 小巨蛋）
+- 交换余生 （CD）
+- 交换余生 （Live Sanctuary Final）
+- 交换余生 （MV）
+- 会有那么一天 （CD）
+- 会有那么一天 （MV）
+- 会读书 （CD）
+- 会读书 （MV）
+- 伟大的渺小 （CD）
+- 伟大的渺小 （MV）
+- 你都在 （CD）
+- 修炼爱情 （CD）
+- 修炼爱情 （Live Sanctuary Final）
+- 修炼爱情 （Live 新地球）
+- 修炼爱情 （MV）
+- 关键词 （CD）
+- 关键词 （Live Sanctuary Final）
+- 关键词 （Live 圣所2.0）
+- 关键词 （MV）
+- 冻结 （CD）
+- 冻结 （Live 小巨蛋）
+- 加油 （CD）
+- 加油 （Live After The Rain）
+- 加油 （Live I AM）
+- 加油 （Live 小巨蛋）
+- 加油 （MV）
+- 只对你说 （CD）
+- 只对你说 （Live I AM）
+- 只对你说 （Live 小巨蛋）
+- 只对你说 （Live 就是林俊杰）
+- 只对你说 （Live 新地球）
+- 只对你说 （MV）
+- 可惜没如果 （CD）
+- 可惜没如果 （Live Sanctuary Final）
+- 可惜没如果 （Live 圣所2.0）
+- 可惜没如果 （Live 新地球）
+- 听见幸福 （CD）
+- 因你而在 （CD）
+- 因你而在 （Live After The Rain）
+- 因你而在 （Live Sanctuary Final）
+- 因你而在 （Live 圣所2.0）
+- 因你而在 （Live 新地球）
+- 因你而在 （MV）
+- 圣所 （CD）
+- 圣所 （Live Sanctuary Final）
+- 圣所 （Live 伟大的渺小）
+- 圣所 （Live 圣所2.0）
+- 她说 （CD）
+- 她说 （Live After The Rain）
+- 她说 （Live Sanctuary Final）
+- 她说 （Live We Together）
+- 她说 （Live 小巨蛋）
+- 她说 （Live 新地球）
+- 她说 （MV）
+- 如果我还剩一件事情可以做 （CD）
+- 如果我还剩一件事情可以做 （MV）
+- 学不会 （CD）
+- 学不会 （Live We Together）
+- 学不会 （MV）
+- 害怕 （CD）
+- 害怕 （Live I AM）
+- 害怕 （MV）
+- 小酒窝 （CD）
+- 小酒窝 （Live 小巨蛋）
+- 小酒窝 （Live 新地球）
+- 小酒窝 （Live 重拾快乐）
+- 小酒窝 （MV）
+- 就是我 （CD）
+- 就是我 （Live 就是林俊杰）
+- 就是我 （Live 新地球）
+- 就是我 （MV）
+- 当你 （CD）
+- 心墙 （CD）
+- 愿与愁 （CD）
+- 愿与愁 （Live 重拾快乐）
+- 愿与愁 （MV）
+- 我继续 （CD）
+- 我继续 （Live 伟大的渺小）
+- 我还想她 （CD）
+- 我还想她 （MV）
+- 手心的蔷薇 （CD）
+- 手心的蔷薇 （MV）
+- 新地球 （CD）
+- 新地球 （Live 圣所2.0）
+- 新地球 （Live 新地球）
+- 新地球 （MV）
+- 无法克制 （CD）
+- 无法克制 （Live Sanctuary Final）
+- 明天 （CD）
+- 明天 （Live Sanctuary Final）
+- 明天 （Live 就是林俊杰）
+- 星空下的吻 （CD）
+- 曹操 （CD）
+- 曹操 （Live I AM）
+- 曹操 （Live 新地球）
+- 曹操 （MV）
+- 期待爱 （CD）
+- 期待爱 （Live I AM）
+- 期待爱 （Live Sanctuary Final）
+- 期待爱 （Live 小巨蛋）
+- 期待爱 （MV）
+- 木乃伊 （CD）
+- 木乃伊 （Live 就是林俊杰）
+- 木乃伊 （MV）
+- 杀手 （CD）
+- 杀手 （Live I AM）
+- 杀手 （Live Sanctuary Final）
+- 梦不凌乱 （CD）
+- 梦不凌乱 （Live 重拾快乐）
+- 江南 （CD）
+- 江南 （Live I AM）
+- 江南 （Live 小巨蛋）
+- 江南 （Live 就是林俊杰）
+- 江南 （Live 新地球）
+- 江南 （MV）
+- 波间带 （CD）
+- 波间带 （Live 就是林俊杰）
+- 波间带 （MV）
+- 灵魂的共鸣 （CD）
+- 灵魂的共鸣 （MV）
+- 熟能生巧 （CD）
+- 熟能生巧 （Live 就是林俊杰）
+- 熟能生巧 （MV）
+- 爱不会绝迹 （CD）
+- 爱不会绝迹 （Live After The Rain）
+- 爱与希望 （CD）
+- 爱情Yogurt （CD）
+- 爱情Yogurt （MV）
+- 爱的鼓励 （CD）
+- 爱的鼓励 （Live 新地球）
+- 爱笑的眼睛 （CD）
+- 爱笑的眼睛 （Live 小巨蛋）
+- 爱笑的眼睛 （Live 就是林俊杰）
+- 爱笑的眼睛 （Live 新地球）
+- 爱笑的眼睛 （MV）
+- 独舞 （CD）
+- 突然累了 （CD）
+- 突然累了 （MV）
+- 第二天堂 （CD）
+- 第二天堂 （Live I AM）
+- 第二天堂 （Live 小巨蛋）
+- 第二天堂 （Live 就是林俊杰）
+- 第二天堂 （MV）
+- 第几个100天 （CD）
+- 第几个100天 （Live After The Rain）
+- 第几个100天 （Live I AM）
+- 第几个100天 （MV）
+- 简简单单 （CD）
+- 简简单单 （Live Sanctuary Final）
+- 简简单单 （Live 就是林俊杰）
+- 简简单单 （MV）
+- 编号89757 （CD）
+- 编号89757 （Live I AM）
+- 编号89757 （Live Sanctuary Final）
+- 编号89757 （Live 小巨蛋）
+- 编号89757 （Live 就是林俊杰）
+- 编号89757 （MV）
+- 美人鱼 （CD）
+- 美人鱼 （Live 就是林俊杰）
+- 美人鱼 （Live 新地球）
+- 翅膀 （CD）
+- 翅膀 （Live I AM）
+- 翅膀 （Live 就是林俊杰）
+- 翅膀 （MV）
+- 背对背拥抱 （CD）
+- 背对背拥抱 （Live I AM）
+- 背对背拥抱 （Live 小巨蛋）
+- 背对背拥抱 （Live 新地球）
+- 背对背拥抱 （MV）
+- 自画像 （CD）
+- 自画像 （Live 重拾快乐）
+- 自画像 （MV）
+- 茉莉雨 （CD）
+- 茉莉雨 （MV）
+- 落在生命里的光 （CD）
+- 街道 （CD）
+- 街道 （Live 小巨蛋）
+- 街道 （MV）
+- 被风吹过的夏天 （CD）
+- 被风吹过的夏天 （MV）
+- 裹着心的光 （CD）
+- 裹着心的光 （Live After The Rain）
+- 记得 （CD）
+- 记得 （Live I AM）
+- 记得 （Live Sanctuary Final）
+- 记得 （Live We Together）
+- 记得 （Live 小巨蛋）
+- 记得 （Live 就是林俊杰）
+- 记得 （Live 新地球）
+- 记得 （MV）
+- 豆浆油条 （CD）
+- 豆浆油条 （Live I AM）
+- 豆浆油条 （Live 就是林俊杰）
+- 豆浆油条 （Live 新地球）
+- 豆浆油条 （MV）
+- 跟屁虫 （CD）
+- 跟屁虫 （Live 小巨蛋）
+- 身后 （CD）
+- 进化论 （CD）
+- 进化论 （Live 就是林俊杰）
+- 进化论 （MV）
+- 逆光白 （CD）
+- 逆光白 （MV）
+- 那些你很冒险的梦 （CD）
+- 那些你很冒险的梦 （Live After The Rain）
+- 那些你很冒险的梦 （Live Sanctuary Final）
+- 那些你很冒险的梦 （Live We Together）
+- 那些你很冒险的梦 （Live 圣所2.0）
+- 那些你很冒险的梦 （MV）
+- 醉赤壁 （CD）
+- 醉赤壁 （Live 新地球）
+- 醉赤壁 （MV）
+- 黑夜问白天 （CD）
+- 黑夜问白天 （Live 圣所2.0）
+- 黑武士 （CD）
+- 黑武士 （Live I AM）
+- 黑武士 （Live 小巨蛋）
+- 黑色泡沫 （CD）
+- 黑色泡沫 （Live 重拾快乐）
+- 黑键 （CD）
+- 黑键 （Live 新地球）
+- 黑键 （MV）
+
+## 王心凌 (共 53 首)
+
+- Baby Boy （CD）
+- Baby Boy （MV）
+- DA DA DA （CD）
+- DA DA DA （MV）
+- Honey （CD）
+- Honey （MV）
+- Na Na Na （CD）
+- Na Na Na （MV）
+- Woosa Woosa （CD）
+- Woosa Woosa （MV）
+- 哭泣Baby （CD）
+- 彩虹的微笑 （CD）
+- 彩虹的微笑 （MV）
+- 心电心 （CD）
+- 心电心 （MV）
+- 想你想你 （CD）
+- 想你想你 （MV）
+- 我会好好的 （CD）
+- 我会好好的 （MV）
+- 摇滚吧姑娘 （CD）
+- 摇滚吧姑娘 （MV）
+- 梦的光点 （CD）
+- 水仙 （CD）
+- 水仙 （MV）
+- 泡泡糖 （CD）
+- 热爱 （CD）
+- 热爱 （MV）
+- 爱上了就不得了 （CD）
+- 爱不爱 （CD）
+- 爱你 （CD）
+- 爱你 （MV）
+- 爱的天灵灵 （CD）
+- 爱的天灵灵 （MV）
+- 爱的滑翔翼 （CD）
+- 睫毛弯弯 （CD）
+- 睫毛弯弯 （MV）
+- 第一次爱的人 （CD）
+- 第一次爱的人 （MV）
+- 翅膀 （CD）
+- 翅膀 （MV）
+- 翘翘板 （CD）
+- 翘翘板 （MV）
+- 还是好朋友 （CD）
+- 远在眼前的你 （CD）
+- 远在眼前的你 （MV）
+- 那年夏天宁静的海 （CD）
+- 那年夏天宁静的海 （MV）
+- 非Soul-Mate （CD）
+- 非Soul-Mate （MV）
+- 飘飘 （CD）
+- 飘飘 （MV）
+- 飞吧 （CD）
+- 飞吧 （MV）
+
+## 米津玄师 (共 40 首)
+
+- Flamingo （CD）
+- Flamingo （Live）
+- Flamingo （MV）
+- LOSER （CD）
+- LOSER （Live）
+- LOSER （MV）
+- Lemon （CD）
+- Lemon （Live 千叶）
+- Lemon （MV）
+- M八七 （CD）
+- M八七 （MV）
+- Nighthawks （CD）
+- Nighthawks （Live 千叶）
+- かいじゅうのマーチ （CD）
+- かいじゅうのマーチ （Live 千叶）
+- まちがいさがし （CD）
+- アイネクライネ （CD）
+- アイネクライネ （Live 千叶）
+- アイネクライネ （MV）
+- クランベリーとパンケーキ （CD）
+- クランベリーとパンケーキ （Live 千叶）
+- パプリカ （CD）
+- ピースサイン （CD）
+- ピースサイン （Live 千叶）
+- ピースサイン （MV）
+- 打上花火 （CD）
+- 春雷 （CD）
+- 春雷 （Live 千叶）
+- 春雷 （MV）
+- 海と山椒魚 （CD）
+- 海の幽霊 （CD）
+- 海の幽霊 （MV）
+- 灰色と青 （Live 千叶）
+- 灰色と青 （MV）
+- 灰色と青 ( + 菅田将暉 ) （CD）
+- 百鬼夜行 （CD）
+- 砂の惑星 （CD）
+- 砂の惑星 （Live）
+- 飛燕 （CD）
+- 飛燕 （Live）
+
+## 蔡依林 (共 157 首)
+
+- Dr. Jolin （Live Play）
+- Dr.Jolin （CD）
+- Dr.Jolin （MV）
+- Get this party started （CD）
+- I'm Not Yours （CD）
+- Im Not Yours （MV）
+- I‘m Not Yours （Live Play）
+- Lady marmalade （CD）
+- Let's Move It （MV）
+- Let‘s Move It （CD）
+- Love Love Love （CD）
+- Love Love Love （Live Play）
+- Love Love Love （MV）
+- Miss Trouble （CD）
+- Miss Trouble （Live Play）
+- Miss Trouble （MV）
+- Mr. Q （Live Play）
+- Mr. Q （MV）
+- Mr.Q （CD）
+- OH LA LA LA （CD）
+- OH LA LA LA （MV）
+- OH OH （CD）
+- OH OH （MV）
+- Play我呸 （Live Play）
+- Pretty Pretty Day （CD）
+- Pretty Pretty Day （MV）
+- Prove it （CD）
+- Prove it （MV）
+- Stars Align （CD）
+- StarsAlign （MV）
+- Take It Easy （CD）
+- You Gotta Know （CD）
+- You Gotta Know （MV）
+- 七上八下 （Live Myself）
+- 七上八下 （Live Play）
+- 万花瞳 （CD）
+- 不一样又怎样 （CD）
+- 不一样又怎样 （MV）
+- 乐园 （CD）
+- 乐园 （MV）
+- 乖乖牌 （CD）
+- 乖貓 （CD）
+- 什么什么 （CD）
+- 什么什么 （MV）
+- 你怎么连话都说不清楚 （CD）
+- 倒带 （CD）
+- 倒流 （CD）
+- 假裝 （CD）
+- 假裝 （MV）
+- 冷暴力 （CD）
+- 冷暴力 （MV）
+- 十三号星期舞 （CD）
+- 呸 （CD）
+- 呸 （MV）
+- 唇唇欲动 （CD）
+- 大丈夫 （CD）
+- 大丈夫 （MV）
+- 大丈夫. （Live Play）
+- 大艺术家 （CD）
+- 大艺术家 （Live Play）
+- 大艺术家 （MV）
+- 如果我没有伤口 （CD）
+- 娘子汉 （Live Myself）
+- 孤单的人总说无所谓 （CD）
+- 就是爱 （CD）
+- 就是爱 （MV）
+- 布拉格广场 （CD）
+- 布拉格广场 （Live Play）
+- 布拉格广场 （MV）
+- 开场白 （CD）
+- 开场白 （MV）
+- 影舞者 （CD）
+- 快有爱 （CD）
+- 怕什么 （CD）
+- 怕什么 （MV）
+- 怪美的 （CD）
+- 怪美的 （MV）
+- 感觉你的存在 （CD）
+- 感觉你的存在 （MV）
+- 招牌动作 （CD）
+- 招牌动作 （MV）
+- 无言以对 （Live Myself）
+- 无言以对 （Live Play）
+- 日不落 （CD）
+- 日不落 （Live Play）
+- 日不落 （MV）
+- 有人 （CD）
+- 桃花源 （CD）
+- 桃花源 （MV）
+- 派大星 （Live Myself）
+- 海盗 （MV）
+- 海盜 （CD）
+- 消失的城堡 （CD）
+- 消极掰 （CD）
+- 消极掰 （MV）
+- 热冬 （CD）
+- 爆米花的味道 （CD）
+- 爆米花的味道 （MV）
+- 爱引力 （CD）
+- 爱引力 （MV）
+- 爱情36计 （CD）
+- 爱情36计 （Live Play）
+- 爱情36计 （MV）
+- 爱无赦 （CD）
+- 爱无赦 （Live Play）
+- 爱无赦 （MV）
+- 特务J （CD）
+- 特务J （Live Play）
+- 特务J （MV）
+- 独占神话 （CD）
+- 独占神话 （Live Play）
+- 独占神话 （MV）
+- 玩爱之徒 （Live Myself）
+- 玩美 （CD）
+- 玩美 （MV）
+- 玫瑰少年 （CD）
+- 玫瑰少年 （MV）
+- 玫瑰少年 （THE FIRST TAKE）
+- 甜秘密 （CD）
+- 甜秘密 （MV）
+- 电话皇后 （CD）
+- 电话皇后 （Live Play）
+- 电话皇后 （MV）
+- 看我72变 （CD）
+- 看我72变 （Live Play）
+- 看我72变 （MV）
+- 看紧我 （CD）
+- 睁一只眼闭一只眼 （MV）
+- 睜一只眼闭一只眼 （CD）
+- 第一优先 （CD）
+- 美人计 （Live Myself）
+- 美杜莎 （CD）
+- 美杜莎 （Live Play）
+- 美杜莎 （MV）
+- 舞娘 （CD）
+- 舞娘 （Live Play）
+- 舞娘 （MV）
+- 节拍器 （CD）
+- 节拍器 （MV）
+- 花蝴蝶 （CD）
+- 花蝴蝶 （Live Play）
+- 花蝴蝶 （MV）
+- 说爱你 （CD）
+- 说爱你 （MV）
+- 越慢越美丽 （CD）
+- 越慢越美丽 （MV）
+- 迷幻 （Live Play）
+- 野蛮游戏 （CD）
+- 野蛮游戏 （MV）
+- 金山角 （CD）
+- 马德里不思议 （CD）
+- 马德里不思议 （MV）
+- 马赛克 （CD）
+- 马赛克 （MV）
+- 骑士精神 （CD）
+- 骑士精神 （MV）
+- 黑发尤物 （Live Myself）
+
+## 西木康智 (共 4 首)
+
+- クレストランド地方 （CD）
+- クレストランド地方-夜 （CD）
+- 秘密の楽園トロップホップ （CD）
+- 秘密の楽園トロップホップ -夜- （CD）
+
+## 邓紫棋 (共 173 首)
+
+- 18 （CD）
+- 18 （Live 2011 香港红馆）
+- A.I.N.Y （CD）
+- A.I.N.Y （Live 2013 香港红馆）
+- A.I.N.Y （Live 2015 北京）
+- A.I.N.Y. （Live 2011 香港红馆）
+- A.I.N.Y. （MV）
+- A.I.N.Y. (Live Piano Version) （CD）
+- A.I.N.Y.(2017) （CD）
+- ALL ABOUT U （CD）
+- ALL ABOUT U （Live 2011 香港红馆）
+- ALL ABOUT U （Live 2013 香港红馆）
+- ALL ABOUT U （MV）
+- After Tonight （CD）
+- After Tonight （Live 2013 香港红馆）
+- After Tonight （Live 2015 北京）
+- Don‘t Stop The Music （Live 2011 香港红馆）
+- El Hombre que Ríe （MV）
+- El Hombre que Ríe （CD）
+- Fly Away （CD）
+- Fly Away （MV）
+- G.E.M.(GET EVERYBODY MOVING) （CD）
+- G.E.M.(GET EVERYBODY MOVING) （Live 2011 香港红馆）
+- G.E.M.(GET EVERYBODY MOVING) （Live 2013 香港红馆）
+- G.E.M.(GET EVERYBODY MOVING) （Live 2015 北京）
+- GAME OVER （CD）
+- GAME OVER （Live 2011 香港红馆）
+- GAME OVER （MV）
+- Get Over You （CD）
+- Get Over You （Live 2011 香港红馆）
+- Get Over You （Live 2013 香港红馆）
+- Get Over You （MV）
+- Good To Be Bad （CD）
+- Good to be Bad （Live 2011 香港红馆）
+- Good to be Bad （Live 2013 香港红馆）
+- Good to be Bad （Live 2015 北京）
+- Good to be Bad （MV）
+- Mascara （CD）
+- Mascara （Live 2011 香港红馆）
+- Mascara （MV）
+- Oh Boy （CD）
+- Oh Boy （Live 2013 香港红馆）
+- Oh Boy （Live 2015 北京）
+- Oh Boy （MV）
+- One Button （CD）
+- One Button （Live 2011 香港红馆）
+- One Button （Live 2013 香港红馆）
+- One Button （Live 2015 北京）
+- One Button （MV）
+- Rolling in the deep （Live 2013 香港红馆）
+- Rolling in the deep （Live 2015 北京）
+- Say it Loud （CD）
+- Someday I'll Fly （CD）
+- Someday I'll Fly （Live 2013 香港红馆）
+- Someday I'll Fly （MV）
+- The Voice Within （CD）
+- The Voice Within （MV）
+- Twinkle II （CD）
+- Twinkle II （Live 2011 香港红馆）
+- Victoria （CD）
+- Victoria （MV）
+- Wanna Be Startin‘ Somethin‘ （Live 2011 香港红馆）
+- What Have U Done （CD）
+- What Have U Done （Live 2013 香港红馆）
+- What Have U Done （Live 2015 北京）
+- What Have U Done （MV）
+- Where Did U Go （CD）
+- Where Did U Go （Live 2011 香港红馆）
+- Where Did U Go （Live 2013 香港红馆）
+- Where Did U Go （MV）
+- Where Did U Go 2.0 (Remix) （CD）
+- You Raise Me Up （Live 2011 香港红馆）
+- 下一秒 （CD）
+- 下一秒 （Live 2013 香港红馆）
+- 不存在的存在 （CD）
+- 不存在的存在 （Live 2013 香港红馆）
+- 你不是真正的快乐 （CD）
+- 你不是真正的快乐 （Live 2015 北京）
+- 你不是真正的快乐 （MV）
+- 你把我灌醉 （CD）
+- 你把我灌醉 （Live 2015 北京）
+- 你把我灌醉 （MV）
+- 依然睡公主 （CD）
+- 倒数 （CD）
+- 倒数 （MV）
+- 光年之外 （CD）
+- 光年之外 （MV）
+- 再见 （CD）
+- 再见 （MV）
+- 再见 (Live Piano Session II) （CD）
+- 写不完的温柔 （CD）
+- 写不完的温柔 （MV）
+- 单行的轨道 （CD）
+- 单行的轨道 （MV）
+- 句号 （CD）
+- 句号 （MV）
+- 后会无期 （CD）
+- 后会无期 （MV）
+- 唯一 （CD）
+- 喜欢你 （CD）
+- 喜欢你 （Live 2015 北京）
+- 喜欢你 （MV）
+- 回忆的沙漏 （CD）
+- 回忆的沙漏 （MV）
+- 回忆的沙漏(10周年版) （CD）
+- 塞纳河 （CD）
+- 塞纳河 （Live 2011 香港红馆）
+- 多远都要在一起 （CD）
+- 多远都要在一起 （MV）
+- 多远都要在一起 (Dub Mix) （CD）
+- 奇迹 （CD）
+- 奇迹 （MV）
+- 寂寞星球的玫瑰 （Live 2011 香港红馆）
+- 寂寞星球的玫瑰 （CD）
+- 差不多姑娘 （CD）
+- 差不多姑娘 （MV）
+- 情人 （CD）
+- 情人 （Live 2011 香港红馆）
+- 想讲你知 （CD）
+- 想讲你知 （Live 2011 香港红馆）
+- 想讲你知 （Live 2013 香港红馆）
+- 想讲你知 （Live 2015 北京）
+- 想讲你知 （MV）
+- 意式恋爱 （CD）
+- 我不懂爱 （CD）
+- 我不懂爱 （Live 2011 香港红馆）
+- 我的秘密 （CD）
+- 我的秘密 （Live 2011 香港红馆）
+- 我的秘密 （Live 2013 香港红馆）
+- 我的秘密 （Live 2015 北京）
+- 我的秘密 （MV）
+- 我的秘密 (Live Piano Session) （CD）
+- 摩天动物园 （CD）
+- 摩天动物园 （MV）
+- 新的心跳 （CD）
+- 新的心跳 （Live 2015 北京）
+- 新的心跳 （MV）
+- 末日 （CD）
+- 末日 （MV）
+- 来自天堂的魔鬼 （CD）
+- 来自天堂的魔鬼 （MV）
+- 查克靠近 （CD）
+- 查克靠近 （MV）
+- 桃花诺 （CD）
+- 桃花诺 （MV）
+- 泡沫 （Live 2013 香港红馆）
+- 泡沫 （Live 2015 北京）
+- 泡沬 （CD）
+- 潜意式的残酷 （CD）
+- 潜意式的残酷 （Live 2013 香港红馆）
+- 潜意式的残酷 （Live 2015 北京）
+- 潜意式的残酷 （MV）
+- 爱如意 （CD）
+- 爱如意 （MV）
+- 爱现在的我 （CD）
+- 画 （MV）
+- 画 (Live Piano Session II) （CD）
+- 盲点 （CD）
+- 盲点 （MV）
+- 等一个他 （CD）
+- 等一个他 （Live 2011 香港红馆）
+- 等一个他 （Live 2013 香港红馆）
+- 等一个他 （Live 2015 北京）
+- 等一个他 （MV）
+- 红蔷薇白玫瑰 （CD）
+- 红蔷薇白玫瑰 （MV）
+- 美好的旧时光 （CD）
+- 美好的旧时光 （Live 2011 香港红馆）
+- 萤火 （CD）
+- 超能力 （CD）
+- 超能力 （MV）
+- 龙卷风 （CD）
+- 龙卷风 （Live 2015 北京）
+
+## 铃木爱理 (共 60 首)
+
+- Apple Pie （CD）
+- BABY!WE CAN DO IT! （CD）
+- Be Brave （CD）
+- Be Brave （Live No Life No Live EX）
+- Be Brave （Live No Live No Live 2）
+- Be Your Love （CD）
+- Be Your Love （Live Escape）
+- Be Your Love （Live ココロノオトヲ）
+- Break it down （CD）
+- Break it down （Live 2018）
+- Break it down （Live Escape）
+- Break it down （Live No Live No Life 1）
+- Break it down （Live No Live No Life 3）
+- Break it down （Live ココロノオトヲ）
+- Candy Box （CD）
+- Candy Box （Live 2018）
+- Candy Box （Live Escape）
+- DADDY! DADDY! DO! （Live No Live No Life 3）
+- DADDY! DADDY! DO! （Live No Live No Live 2）
+- DADDY! DADDY! DO! feat. 鈴木愛理 （CD）
+- DISTANCE （CD）
+- DISTANCE （Live Escape）
+- DISTANCE （Live No Live No Live 2）
+- Escape （CD）
+- Escape （Live Escape）
+- Escape （Live No Life No Live EX）
+- Escape （Live No Live No Life 1）
+- Escape （Live No Live No Live 2）
+- Good Night （CD）
+- Good Night （Live 2018）
+- Good Night （Live Escape）
+- Good Night （Live No Live No Life 1）
+- Good Night （Live ココロノオトヲ）
+- Let The Show Begin （CD）
+- Let The Show Begin （Live No Live No Life 3）
+- Let the Show Begin （Live ココロノオトヲ）
+- STORY （CD）
+- STORY （Live No Life No Live EX）
+- STORY （Live No Live No Live 2）
+- TRICK （CD）
+- TRICK （Live 2018）
+- TRICK （Live Escape）
+- perfect timing （CD）
+- rescue （CD）
+- rescue （Live No Life No Live EX）
+- rescue （Live No Live No Life 3）
+- rescue （Live ココロノオトヲ）
+- たぶんね （Live ココロノオトヲ）
+- たぶんね、 （CD）
+- ハイビート気分 （CD）
+- ハイビート気分 （Live No Live No Life 3）
+- ハイビート気分 （Live No Live No Live 2）
+- ハイビート気分 （Live ココロノオトヲ）
+- 別の人の彼女になったよ （CD）
+- 別の人の彼女になったよ （Live Escape）
+- 別の人の彼女になったよ （Live No Live No Life 1）
+- 真夜中のメリーゴーランド （CD）
+- 真夜中のメリーゴーランド （Live ココロノオトヲ）
+- 空は二度燃える （Live No Live No Live 2）
+- 空は二度燃える (28-29 Ver.) (feat.鈴木 愛理) （CD）
+
+## 陶喆 (共 37 首)
+
+- All for Joy （CD）
+- I'm OK （MV）
+- I'm OK (Reimagined) （CD）
+- Run Away （MV）
+- Runaway （CD）
+- Runaway （Live Soul Power）
+- Runaway （Live 小人物）
+- 一念之间 （Live 小人物）
+- 中国姑娘 （CD）
+- 今天沒回家 （CD）
+- 今天没回家 （MV）
+- 寂寞的季节 （CD）
+- 寂寞的季节 （Live 123）
+- 寂寞的季节 （Live Soul Power）
+- 寂寞的季节 （MV）
+- 小子 （CD）
+- 小镇姑娘 （CD）
+- 小镇姑娘 （Live 就是爱你）
+- 小镇姑娘 （MV）
+- 就是爱你 （CD）
+- 就是爱你 （MV）
+- 找自己 （CD）
+- 找自己 （Live 123）
+- 找自己 （Live 小人物）
+- 找自己 （MV）
+- 流沙 （CD）
+- 流沙 （MV）
+- 爱，很简单 （CD）
+- 王八蛋 （Live 杂集）
+- 讨厌红楼梦 （Live 小人物）
+- 讨厌红楼梦 （MV）
+- 黑色柳丁 （CD）
+- 黑色柳丁 （Live 123）
+- 黑色柳丁 （Live Soul Power）
+- 黑色柳丁 （Live 就是爱你）
+- 黑色柳丁 （Live 杂集）
+- 黑色柳丁 （MV）
+
