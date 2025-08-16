@@ -195,6 +195,10 @@ def csv_to_markdown_grouped(csv_path):
     Albums 分块显示曲目列表，Singles/Lives 按时间排序直接列出。
     CSV 应包含字段: Type, Date, Album, No, Name, Parent_Folder (可选)
     """
+    import os
+    import csv
+    from collections import defaultdict
+
     output_md_path = os.path.join(os.path.dirname(csv_path), "README.md")
     albums = defaultdict(list)
     singles = []
@@ -208,7 +212,7 @@ def csv_to_markdown_grouped(csv_path):
             if type_key == 'album':
                 release_date = row['Date']
                 album_name = row['Album']
-                albums[(release_date, album_name)].append((row['No'], row['Name']))
+                albums[(release_date, album_name)].append((row['No'].zfill(3), row['Name']))
             elif type_key == 'single':
                 release_date = row['Date']
                 track_name = row['Name']
@@ -217,8 +221,6 @@ def csv_to_markdown_grouped(csv_path):
                 release_date = row['Date']
                 track_name = row['Name']
                 lives.append((release_date, track_name))
-    # print(singles)
-    # print(lives)
 
     # 写入 Markdown
     with open(output_md_path, 'w', encoding='utf-8') as f:
@@ -227,27 +229,33 @@ def csv_to_markdown_grouped(csv_path):
 
         # Albums
         if albums:
-            f.write("## Albums\n\n")
+            f.write("## 📀 Albums\n\n")
             for (date, album_name) in sorted(albums.keys()):
-                f.write(f"### ({date}) {album_name} \n\n")
+                f.write(f"### 📁 ({date}) {album_name} \n\n")
                 for no, name in sorted(albums[(date, album_name)], key=lambda x: x[0]):
                     f.write(f"- **[{no}]** {name}\n")
                 f.write("\n")
 
         # Singles
         if singles:
-            f.write("## Singles\n\n")
+            f.write("## 🎵 Singles\n\n")
             for date, name in sorted(singles, key=lambda x: x[0]):
                 f.write(f"- **[{date}]** {name}\n")
             f.write("\n")
 
         # Lives
         if lives:
-            f.write("## Lives\n\n")
+            f.write("## 🎤 Lives\n\n")
             for date, name in sorted(lives, key=lambda x: x[0]):
-                f.write(f"- **[{date}]** {name}\n")
+                display_date = date if date else "-"
+                f.write(f"- **[{display_date}]** {name}\n")
             f.write("\n")
 
+    # 删除结尾多余换行
+    with open(output_md_path, 'rb+') as file:
+        file.seek(-2, os.SEEK_END)
+        file.truncate()
+        
     print(f"README.md 已生成：{output_md_path}")
     return output_md_path
 
