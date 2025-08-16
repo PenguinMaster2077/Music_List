@@ -173,54 +173,86 @@ def generate_csv(all_tracks, artist_folder):
     print(f"CSV 已生成：{csv_file}")
     return csv_file
 
-def generate_readme_from_csv_by_type(csv_file):
-    """从 CSV 文件生成 README.md，按 Album / Single / Live 分块"""
-    artist_name = os.path.splitext(os.path.basename(csv_file))[0]
-    readme_file = os.path.join(os.path.dirname(csv_file), "README.md")
+def clean_name(name):
+    """清理文件名，例如去掉扩展名或多余空格"""
+    return os.path.splitext(name)[0].strip()
 
-    with open(csv_file, 'r', encoding='utf-8-sig') as f:
-        reader = csv.reader(f)
-        rows = list(reader)
+def clean_name(name, folder_type=None):
+    """
+    清理文件名
+    - Albums: 保留所有信息
+    - Singles / Lives: 去掉文件扩展名和前后空格，但保留括号
+    """
+    name = os.path.splitext(name)[0].strip()
+    if folder_type == 'album':
+        return name
+    # Singles / Live 只去掉空格，不去掉括号内容
+    return name
 
-    if not rows:
-        print("CSV 文件为空，无法生成 README.md")
-        return None
+def csv_to_markdown_grouped(csv_path):
+    """
+    从音乐 CSV 文件生成美化的 README.md。
+    Albums 分块显示曲目列表，Singles/Lives 按时间排序直接列出。
+    CSV 应包含字段: Type, Date, Album, No, Name, Parent_Folder (可选)
+    """
+    output_md_path = os.path.join(os.path.dirname(csv_path), "README.md")
+    albums = defaultdict(list)
+    singles = []
+    lives = []
 
-    headers = rows[0]
-    data_rows = rows[1:]
+    # 读取 CSV 并分类
+    with open(csv_path, 'r', encoding='utf-8-sig') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            type_key = row['Type']
+            if type_key == 'album':
+                release_date = row['Date']
+                album_name = row['Album']
+                albums[(release_date, album_name)].append((row['No'], row['Name']))
+            elif type_key == 'single':
+                release_date = row['Date']
+                track_name = row['Name']
+                singles.append((release_date, track_name))
+            elif type_key == 'live':
+                release_date = row['Date']
+                track_name = row['Name']
+                lives.append((release_date, track_name))
+    # print(singles)
+    # print(lives)
 
-    # 按 Type 分类
-    grouped = defaultdict(list)
-    for row in data_rows:
-        grouped[row[0]].append(row)
+    # 写入 Markdown
+    with open(output_md_path, 'w', encoding='utf-8') as f:
+        artist_name = os.path.splitext(os.path.basename(csv_path))[0]
+        f.write(f"# 🎵 {artist_name} 歌曲列表\n\n")
 
-    # 输出顺序： album -> single -> live
-    type_order = ['album', 'single', 'live']
+        # Albums
+        if albums:
+            f.write("## Albums\n\n")
+            for (date, album_name) in sorted(albums.keys()):
+                f.write(f"### ({date}) {album_name} \n\n")
+                for no, name in sorted(albums[(date, album_name)], key=lambda x: x[0]):
+                    f.write(f"- **[{no}]** {name}\n")
+                f.write("\n")
 
-    with open(readme_file, 'w', encoding='utf-8') as f:
-        f.write(f"# {artist_name} 歌曲列表\n\n")
+        # Singles
+        if singles:
+            f.write("## Singles\n\n")
+            for date, name in sorted(singles, key=lambda x: x[0]):
+                f.write(f"- **[{date}]** {name}\n")
+            f.write("\n")
 
-        total_tracks = len(data_rows)
-        f.write(f"共 {total_tracks} 首歌\n\n")
+        # Lives
+        if lives:
+            f.write("## Lives\n\n")
+            for date, name in sorted(lives, key=lambda x: x[0]):
+                f.write(f"- **[{date}]** {name}\n")
+            f.write("\n")
 
-        for t in type_order:
-            if t not in grouped or not grouped[t]:
-                continue
-
-            f.write(f"## {t.capitalize()}s\n\n")
-            f.write("| " + " | ".join(headers) + " |\n")
-            f.write("|" + "|".join(["---"] * len(headers)) + "|\n")
-
-            for row in grouped[t]:
-                f.write("| " + " | ".join(row) + " |\n")
-            
-            f.write("\n")  # 每个类型后加空行
-
-    print(f"README.md 已生成：{readme_file}")
-    return readme_file
+    print(f"README.md 已生成：{output_md_path}")
+    return output_md_path
 
 # 使用示例
 artist_folder = "/mnt/e/Music/铃木爱理"
 all_tracks = scan_artist_folder(artist_folder)
 csv_path = generate_csv(all_tracks, artist_folder)
-generate_readme_from_csv_by_type(csv_path)
+csv_to_markdown_grouped(csv_path)
