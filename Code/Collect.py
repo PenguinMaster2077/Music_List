@@ -3,6 +3,7 @@ import re
 import csv
 from collections import defaultdict
 import sys
+import argparse
 
 def extract_tracks(folder_path, folder_type='album'):
     """
@@ -351,10 +352,6 @@ def summary_csv_to_markdown(csv_path):
     - 正文按歌手分区，每首歌按 Name 排序
     输出地址：与 CSV 同目录的 README.md
     """
-    import os, csv
-    from collections import defaultdict
-    import re
-
     # ---------- 读取 CSV ----------
     records = []
     with open(csv_path, "r", encoding="utf-8-sig") as f:
@@ -402,7 +399,10 @@ def summary_csv_to_markdown(csv_path):
     # ---------- 拼接正文 ----------
     lines.extend(content_lines)
 
+    # ---------- 写入 Markdown 文件 ----------
     output_md = os.path.join(os.path.dirname(csv_path), "README.md")
+    with open(output_md, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines).strip() + "\n")
        
     # 删除结尾多余换行
     with open(output_md, 'rb+') as file:
@@ -412,22 +412,70 @@ def summary_csv_to_markdown(csv_path):
     print(f"✅ README.md 已生成: {output_md}")
     return output_md
 
-def main():
-    if len(sys.argv) != 2:
-        print("用法: python3 generate_summary.py <音乐文件夹路径>")
-        sys.exit(1)
+def mode_s(base_folder):
+    # 这里写你的第一种模式逻辑
+    print(f"▶️ 启动模式 S，路径：{base_folder}")
+    # TODO: 你自己来写实现部分
+    artist = os.path.basename(base_folder.rstrip("/"))  # 提取歌手名字
+    print(f"▶️ 启动模式 S，处理歌手: {artist} (路径: {base_folder})")
 
-    base_folder = sys.argv[1]
     if not os.path.isdir(base_folder):
-        print(f"错误: 路径 {base_folder} 不存在或不是目录")
+        print(f"❌ 错误: {base_folder} 不是有效文件夹")
+        return
+
+    results = {}
+
+    try:
+        print(f"\n🎶 开始处理歌手: {artist} ...")
+        all_tracks = scan_artist_folder(base_folder)   # 扫描歌手文件夹
+        csv_path = generate_csv(all_tracks, base_folder)  # 生成 CSV
+        md_path = csv_to_markdown_grouped(csv_path)       # 生成 Markdown
+
+        results[artist] = {
+            "csv": csv_path,
+            "markdown": md_path
+        }
+        print(f"✅ {artist} 处理完成！")
+    except Exception as e:
+        print(f"❌ {artist} 处理失败: {e}")
+        results[artist] = {"error": str(e)}
+
+    return results
+
+def mode_a(base_folder):
+    # 对应你原来的 process_all_artists_interactive
+    print(f"▶️ 启动模式 A：扫描目录 {base_folder}")
+    process_all_artists_interactive(base_folder)
+
+def mode_c(base_folder):
+    # 对应你原来的 CloudMusic 部分
+    print(f"▶️ 启动模式 C：处理 Cloud Music {base_folder}/CloudMusic")
+    csv_path = scan_and_export_summary(f"{base_folder}/CloudMusic")
+    print(csv_path)
+    summary_csv_to_markdown(csv_path)
+
+def main():
+    parser = argparse.ArgumentParser(description="音乐文件夹处理工具")
+    parser.add_argument("path", help="音乐文件夹路径")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("-s", action="store_true", help="启动模式 S")
+    group.add_argument("-a", action="store_true", help="启动模式 A")
+    group.add_argument("-c", action="store_true", help="启动模式 C")
+
+    args = parser.parse_args()
+    base_folder = args.path
+
+    if not os.path.isdir(base_folder):
+        print(f"❌ 错误: 路径 {base_folder} 不存在或不是目录")
         sys.exit(1)
 
-    print(f"扫描目录: {base_folder}")
-    process_all_artists_interactive(base_folder)
-    
-    print(f"\n🎶 开始处理 Cloud Music ...")
-    csv_path = scan_and_export_summary(f"{base_folder}/CloudMusic")
-    summary_csv_to_markdown(csv_path)
+    if args.s:
+        mode_s(base_folder)
+    elif args.a:
+        mode_a(base_folder)
+    elif args.c:
+        mode_c(base_folder)
+
     print("✅ 完成")
 
 if __name__ == "__main__":
