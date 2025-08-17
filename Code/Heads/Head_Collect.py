@@ -144,10 +144,15 @@ def scan_artist_folder(artist_folder):
         all_tracks.extend(tracks)
     return all_tracks
 
-def generate_csv(all_tracks, artist_folder):
+def generate_csv(all_tracks, artist_folder, scan_mode="Partial"):
     """生成或更新 CSV，支持增量更新模式。
+    scan_mode:
+        - "All": 检测新增和删除，按用户选择覆盖 CSV
+        - "Partial": 只增加新条目，保留已有条目
     Album 字段 album 使用 album_name，single/live 用 '-'
     """
+    import os, csv
+
     artist_name = os.path.basename(os.path.normpath(artist_folder))
     output_dir = os.path.abspath(os.path.join(os.getcwd(), "..", "List", artist_name))
     os.makedirs(output_dir, exist_ok=True)
@@ -217,11 +222,33 @@ def generate_csv(all_tracks, artist_folder):
         print(f"✅ 没有检测到 {artist_name} 数据更新")
         return "Null"
 
-    # ---------- 覆盖写入新 CSV ----------
+    # ---------- 根据 scan_mode 生成最终 CSV ----------
+    if scan_mode == "All":
+        final_records = new_records
+    elif scan_mode == "Partial":
+        final_records = old_records + [r for r in new_records if (r["Type"], r["Date"], r["Album"], r["No"], r["Name"]) in added]
+
+    # ---------- 分块排序：album -> single -> live, 时间升序 ----------
+    def sort_key(r):
+        type_order = {"album": 0, "single": 1, "live": 2}
+        type_rank = type_order.get(r["Type"], 3)
+        try:
+            date_rank = tuple(int(x) for x in r["Date"].replace("-", ".").split("."))
+        except:
+            date_rank = (9999, 12, 31)
+        try:
+            track_no_rank = int(r["No"]) if r["No"] != '-' else 0
+        except:
+            track_no_rank = 0
+        return (type_rank, date_rank, track_no_rank, r["Name"])
+
+    final_records.sort(key=sort_key)
+
+    # ---------- 写入 CSV ----------
     with open(csv_file, 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         writer.writerow(['Type','Date','Album','No','Name'])
-        for r in new_records:
+        for r in final_records:
             writer.writerow([r["Type"], r["Date"], r["Album"], r["No"], r["Name"]])
 
     # 删除结尾多余换行
@@ -229,6 +256,7 @@ def generate_csv(all_tracks, artist_folder):
         file.seek(-2, os.SEEK_END)
         file.truncate()
 
+    print(f"✅ CSV 已更新：{csv_file}")
     return csv_file
 
 def csv_to_markdown_grouped(csv_path):
@@ -305,7 +333,7 @@ def csv_to_markdown_grouped(csv_path):
     print(f"README.md 已生成：{output_md_path}")
     return output_md_path
 
-def process_all_artists_interactive(base_folder):
+def process_all_artists_interactive(base_folder, scan_mode):
     """
     遍历 base_folder 下的所有歌手文件夹，
     对每个歌手执行 scan → CSV → Markdown，
@@ -331,7 +359,7 @@ def process_all_artists_interactive(base_folder):
         print(f"\n🎶 开始处理歌手: {artist} ...")
         try:
             all_tracks = scan_artist_folder(artist_folder)
-            csv_path = generate_csv(all_tracks, artist_folder)
+            csv_path = generate_csv(all_tracks, artist_folder, scan_mode)
             md_path = csv_to_markdown_grouped(csv_path)
             results[artist] = {
                 "csv": csv_path,
@@ -503,9 +531,10 @@ def summary_csv_to_markdown(csv_path):
     print(f"✅ README.md 已生成: {output_md}")
     return output_md
 
-def mode_s(base_folder):
+def mode_s(base_folder, scan_mode):
     # 这里写你的第一种模式逻辑
     print(f"▶️ 启动模式 S，路径：{base_folder}")
+    print(f"▶️ 启动模式 S，扫描方式：{scan_mode}")
     # TODO: 你自己来写实现部分
     artist = os.path.basename(base_folder.rstrip("/"))  # 提取歌手名字
     print(f"▶️ 启动模式 S，处理歌手: {artist} (路径: {base_folder})")
@@ -519,7 +548,7 @@ def mode_s(base_folder):
     try:
         print(f"\n🎶 开始处理歌手: {artist} ...")
         all_tracks = scan_artist_folder(base_folder)   # 扫描歌手文件夹
-        csv_path = generate_csv(all_tracks, base_folder)  # 生成 CSV
+        csv_path = generate_csv(all_tracks, base_folder, scan_mode)  # 生成 CSV
         md_path = csv_to_markdown_grouped(csv_path)       # 生成 Markdown
 
         results[artist] = {
@@ -533,10 +562,10 @@ def mode_s(base_folder):
 
     return results
 
-def mode_a(base_folder):
+def mode_a(base_folder, scan_mode):
     # 对应你原来的 process_all_artists_interactive
     print(f"▶️ 启动模式 A：扫描目录 {base_folder}")
-    process_all_artists_interactive(base_folder)
+    process_all_artists_interactive(base_folder, scan_mode)
 
 def mode_c(base_folder):
     # 对应你原来的 CloudMusic 部分
