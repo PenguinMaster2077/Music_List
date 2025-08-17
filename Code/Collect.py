@@ -145,42 +145,90 @@ def scan_artist_folder(artist_folder):
     return all_tracks
 
 def generate_csv(all_tracks, artist_folder):
-    """生成 CSV，Album 字段 album 使用 album_name，single/live 用 '-'"""
+    """生成或更新 CSV，支持增量更新模式。
+    Album 字段 album 使用 album_name，single/live 用 '-'
+    """
     artist_name = os.path.basename(os.path.normpath(artist_folder))
     output_dir = os.path.abspath(os.path.join(os.getcwd(), "..", "List", artist_name))
     os.makedirs(output_dir, exist_ok=True)
     csv_file = os.path.join(output_dir, f"{artist_name}.csv")
 
+    # ---------- 将新扫描的数据标准化 ----------
+    new_records = []
+    for t in all_tracks:
+        Type = t.get('folder_type', '-') or '-'
+        Date = t.get('release_date', '-') or '-'
+
+        if Type == 'album':
+            Album = t.get('album_name', '-') or '-'
+            No = t.get('track_no', '-') or '-'
+            Name = t.get('track_name', '-') or '-'
+        else:
+            Album = '-'
+            No = '-'
+            if Type == 'single':
+                Name = t.get('track_name', '-') or '-'
+            elif Type == 'live':
+                Name = t.get('live_name', '-') or '-'
+            else:
+                Name = '-'
+
+        new_records.append({
+            "Type": Type,
+            "Date": Date,
+            "Album": Album,
+            "No": No,
+            "Name": Name
+        })
+
+    # ---------- 如果旧 CSV 存在，加载旧数据 ----------
+    old_records = []
+    if os.path.exists(csv_file):
+        with open(csv_file, "r", encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                old_records.append(row)
+
+    # ---------- 对比差异 ----------
+    old_set = {(r["Type"], r["Date"], r["Album"], r["No"], r["Name"]) for r in old_records}
+    new_set = {(r["Type"], r["Date"], r["Album"], r["No"], r["Name"]) for r in new_records}
+
+    added = new_set - old_set
+    removed = old_set - new_set
+
+    if added or removed:
+        print(f"⚠️ 检测到 {artist_name} 数据更新：+{len(added)}，-{len(removed)}")
+
+    if added:
+        print("\n🟢 新增条目：")
+        for r in sorted(added):
+            print(f"  + Type: {r[0]}, Date: {r[1]}, Album: {r[2]}, No: {r[3]}, Name: {r[4]}")
+
+    if removed:
+        print("\n🔴 删除条目：")
+        for r in sorted(removed):
+            print(f"  - Type: {r[0]}, Date: {r[1]}, Album: {r[2]}, No: {r[3]}, Name: {r[4]}")
+
+    choice = input("\n是否重新生成 CSV？(y/n): ").strip().lower()
+    if choice != "y":
+        print("⏭️ 跳过 CSV 更新")
+        return csv_file
+    else:
+        print(f"✅ 没有检测到 {artist_name} 数据更新")
+
+    # ---------- 覆盖写入新 CSV ----------
     with open(csv_file, 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         writer.writerow(['Type','Date','Album','No','Name'])
+        for r in new_records:
+            writer.writerow([r["Type"], r["Date"], r["Album"], r["No"], r["Name"]])
 
-        for t in all_tracks:
-            Type = t.get('folder_type', '-')
-            Date = t.get('release_date', '-') or '-'
-
-            if Type == 'album':
-                Album = t.get('album_name', '-') or '-'
-                No = t.get('track_no', '-') or '-'
-                Name = t.get('track_name', '-') or '-'
-            else:
-                Album = '-'
-                No = '-'
-                if Type == 'single':
-                    Name = t.get('track_name', '-') or '-'
-                elif Type == 'live':
-                    Name = t.get('live_name', '-') or '-'
-                else:
-                    Name = '-'
-
-            writer.writerow([Type, Date, Album, No, Name])
-            
     # 删除结尾多余换行
     with open(csv_file, 'rb+') as file:
         file.seek(-2, os.SEEK_END)
         file.truncate()
 
-    print(f"CSV 已生成：{csv_file}")
+    print(f"✅ CSV 已生成：{csv_file}")
     return csv_file
 
 def csv_to_markdown_grouped(csv_path):
