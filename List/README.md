@@ -18,10 +18,10 @@
 - [蔡依林](#蔡依林-共-157-首) ：157 首
 - [西木康智](#西木康智-共-4-首) ：4 首
 - [邓紫棋](#邓紫棋-共-173-首) ：173 首
-- [铃木爱理](#铃木爱理-共-64-首) ：64 首
+- [铃木爱理](#铃木爱理-共-95-首) ：95 首
 - [陶喆](#陶喆-共-37-首) ：37 首
 
-**总计：1939 首**
+**总计：1970 首**
 
 ## Aimer (共 165 首)
 
@@ -1909,46 +1909,67 @@
 - 龙卷风 （CD）
 - 龙卷风 （Live 2015 北京）
 
-## 铃木爱理 (共 64 首)
+## 铃木爱理 (共 95 首)
 
 - Apple Pie （CD）
-- BABY!WE CAN DO IT! （CD）
+- Apple Pie （Live 26 ⁄ 27）
+- Apple Pie （MV）
+- BABY! WE CAN DO IT! （CD）
+- BABY! WE CAN DO IT! （MV）
 - Be Brave （CD）
 - Be Brave （Live 2024 第7回）
+- Be Brave （Live 26 ⁄ 27）
 - Be Brave （Live No Life No Live EX）
 - Be Brave （Live No Live No Live 2）
 - Be Your Love （CD）
+- Be Your Love （Live Do me a favor）
 - Be Your Love （Live Escape）
 - Be Your Love （Live ココロノオトヲ）
 - Break it down （CD）
 - Break it down （Live 2018）
+- Break it down （Live 26 ⁄ 27）
 - Break it down （Live Escape）
 - Break it down （Live No Live No Life 1）
 - Break it down （Live No Live No Life 3）
 - Break it down （Live ココロノオトヲ）
+- Break it down （MV）
 - Candy Box （CD）
 - Candy Box （Live 2018）
 - Candy Box （Live 2024 第7回）
+- Candy Box （Live 26 ⁄ 27）
+- Candy Box （Live Do me a favor）
 - Candy Box （Live Escape）
+- DADDY ! DADDY ! DO ! （From THE FIRST TAKE）
+- DADDY! DADDY! DO! （Live 26 ⁄ 27）
 - DADDY! DADDY! DO! （Live No Live No Life 3）
 - DADDY! DADDY! DO! （Live No Live No Live 2）
 - DADDY! DADDY! DO! feat. 鈴木愛理 （CD）
+- DADDY! DADDY! DO! feat. 鈴木愛理 （MV）
 - DISTANCE （CD）
+- DISTANCE （Live Do me a favor）
 - DISTANCE （Live Escape）
 - DISTANCE （Live No Live No Live 2）
+- DISTANCE （MV）
 - Escape （CD）
+- Escape （Live 26 ⁄ 27）
 - Escape （Live Escape）
 - Escape （Live No Life No Live EX）
 - Escape （Live No Live No Life 1）
 - Escape （Live No Live No Live 2）
+- Escape （MV）
 - Good Night （CD）
 - Good Night （Live 2018）
+- Good Night （Live Do me a favor）
 - Good Night （Live Escape）
 - Good Night （Live No Live No Life 1）
 - Good Night （Live ココロノオトヲ）
 - Let The Show Begin （CD）
+- Let The Show Begin （Live 26 ⁄ 27）
 - Let The Show Begin （Live No Live No Life 3）
+- Let The Show Begin （MV）
 - Let the Show Begin （Live ココロノオトヲ）
+- Oops! （CD）
+- Oops! （MV）
 - STORY （CD）
 - STORY （Live No Life No Live EX）
 - STORY （Live No Live No Live 2）
@@ -1956,23 +1977,33 @@
 - TRICK （Live 2018）
 - TRICK （Live Escape）
 - perfect timing （CD）
+- perfect timing （Live Do me a favor）
 - rescue （CD）
+- rescue （Live 26 ⁄ 27）
 - rescue （Live No Life No Live EX）
 - rescue （Live No Live No Life 3）
 - rescue （Live ココロノオトヲ）
+- rescue （MV）
 - この手。 （CD）
 - この手。 （Live 2024 第7回）
-- たぶんね （Live ココロノオトヲ）
+- この手。 （Live 26 ⁄ 27）
 - たぶんね、 （CD）
+- たぶんね、 （Live Do me a favor）
+- たぶんね、 （Live ココロノオトヲ）
 - ハイビート気分 （CD）
 - ハイビート気分 （Live No Live No Life 3）
 - ハイビート気分 （Live No Live No Live 2）
 - ハイビート気分 （Live ココロノオトヲ）
+- ハイビート気分 （MV）
 - 別の人の彼女になったよ （CD）
+- 別の人の彼女になったよ （Live 26 ⁄ 27）
 - 別の人の彼女になったよ （Live Escape）
 - 別の人の彼女になったよ （Live No Live No Life 1）
 - 真夜中のメリーゴーランド （CD）
+- 真夜中のメリーゴーランド （Live 26 ⁄ 27）
 - 真夜中のメリーゴーランド （Live ココロノオトヲ）
+- 真夜中のメリーゴーランド （MV）
+- 空は二度燃える （Live 26 ⁄ 27）
 - 空は二度燃える （Live No Live No Live 2）
 - 空は二度燃える (28-29 Ver.) (feat.鈴木 愛理) （CD）
 

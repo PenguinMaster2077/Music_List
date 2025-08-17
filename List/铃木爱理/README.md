@@ -74,8 +74,11 @@
 
 ## 🎵 Singles
 
+- **[2021.04.02]** DADDY! DADDY! DO! - From THE FIRST TAKE
 - **[2021.04.02]** DADDY! DADDY! DO! feat. 鈴木愛理
 - **[2022.08.17]** この手。
+- **[2025.02.19]** 主人公になろう！feat.鈴木愛理
+- **[2025.06.07]** Oops!
 
 ## 🎤 Lives
 

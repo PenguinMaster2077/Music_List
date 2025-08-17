@@ -31,7 +31,7 @@ def main():
     elif args.a:
         Collect.mode_a(base_folder, scan_mode=scan_mode)
     elif args.c:
-        Collect.mode_c(base_folder, scan_mode=scan_mode)
+        Collect.mode_c(base_folder)
 
     print("✅ 完成")
 
