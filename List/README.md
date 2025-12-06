@@ -6,7 +6,7 @@
 - [Cyberpunk](#cyberpunk-共-1-首) ：1 首
 - [H△G](#h-g-共-10-首) ：10 首
 - [YOASOBI](#yoasobi-共-52-首) ：52 首
-- [milet](#milet-共-153-首) ：153 首
+- [milet](#milet-共-183-首) ：183 首
 - [几田莉拉](#几田莉拉-共-2-首) ：2 首
 - [周杰伦](#周杰伦-共-345-首) ：345 首
 - [宇多田光](#宇多田光-共-169-首) ：169 首
@@ -21,7 +21,7 @@
 - [铃木爱理](#铃木爱理-共-95-首) ：95 首
 - [陶喆](#陶喆-共-37-首) ：37 首
 
-**总计：1970 首**
+**总计：2000 首**
 
 ## Aimer (共 165 首)
 
@@ -263,17 +263,20 @@
 - 群青 （CD）
 - 群青 （MV）
 
-## milet (共 153 首)
+## milet (共 183 首)
 
 - Again and Again （CD）
 - Again and Again （Live MIRROR）
 - Again and Again （MV）
 - Always You （CD）
 - Always You （Live UNZEPP）
+- Always You （Live 武道馆）
 - Always You （MV）
 - Always You (5am mix) （CD）
 - Anytime Anywhere （CD）
+- Anytime Anywhere （Live Taipei）
 - Anytime Anywhere （MV）
+- Ashes （Live visions）
 - Before The Dawn （Live visions）
 - Before the Dawn （CD）
 - Checkmate （CD）
@@ -292,11 +295,15 @@
 - Diving Board （Live 不插电）
 - Dome （CD）
 - Dome （Live SEVENTH）
+- Dome （Live 武道馆）
 - Drown （CD）
 - Drown （Live MIRROR）
 - Drown （Live Online）
+- Drown （Live Taipei）
 - Drown （MV）
 - Final Call （CD）
+- Final Call （Live Taipei）
+- Final Call （Live 武道馆）
 - Final Call （MV）
 - Fine Line （CD）
 - Fine Line （Live Online）
@@ -308,14 +315,19 @@
 - Fire Arrow （MV）
 - Flare （CD）
 - Flare （Live MIRROR）
+- Flare （Live Taipei）
 - Flare （Live visions）
 - Flare （MV）
 - Fly High （CD）
 - Fly High （Live MIRROR）
 - Fly High （MV）
+- Goddess （CD）
 - HELL CLUB （CD）
+- HELL CLUB （Live Taipei）
 - Hey Song （CD）
+- Hey Song （Live Taipei）
 - Hey Song （MV）
+- Higher （Live GREEN LIGHT）
 - Hit the Lights （CD）
 - I Gotta Go （CD）
 - I Gotta Go （Live UNZEPP）
@@ -333,9 +345,12 @@
 - Jam （Live visions）
 - Loved By You （CD）
 - Loved By You （Live visions）
+- My Dreams Are Made of Hell （Live MIRROR）
+- My Dreams Are Made of Hell （Live 武道馆）
 - Noёl In July （CD）
 - One Reason （CD）
 - One Reason （Live visions）
+- One Reason （Live 武道馆）
 - One Reason （MV）
 - One Touch （CD）
 - One Touch （MV）
@@ -343,6 +358,8 @@
 - Ordinary Days （Live SEVENTH）
 - Ordinary Days （Live visions）
 - Ordinary Days （MV）
+- Ordinary days （Live MIRROR）
+- Ordinary days （Live Taipei）
 - Ordinary days （Live UNZEPP）
 - Outsider （CD）
 - Outsider （Live UNZEPP）
@@ -352,6 +369,7 @@
 - Prover （CD）
 - Prover （Live MIRROR）
 - Prover （Live 不插电）
+- Prover （Live 武道馆）
 - Prover （MV）
 - Red Neon （CD）
 - Red Neon （Live UNZEPP）
@@ -384,12 +402,16 @@
 - Wake Me Up （Live visions）
 - Wake Me Up （MV）
 - Walkin' In My Lane （CD）
+- Walkin' In My Lane （Live MIRROR）
+- Walkin' In My Lane （Live 武道馆）
 - Walkin' In My Lane （MV）
-- Walkin’ In My Lane （Live MIRROR）
 - Walkin’ In My Lane （Live UNZEPP）
 - Waterfall （CD）
+- Waterfall （Live GREEN LIGHT）
 - Waterfall （Live SEVENTH）
+- Waterproof （CD）
 - Who I Am （CD）
+- Who I Am （Live GREEN LIGHT）
 - Who I Am （Live MIRROR）
 - Who I Am （MV）
 - Without Your Love （CD）
@@ -398,26 +420,34 @@
 - You & I （CD）
 - You & I （Live MIRROR）
 - You & I （Live Online）
+- You & I （Live Taipei）
 - You & I （MV）
 - You made it （CD）
 - Your Light （CD）
+- Your Light （Live GREEN LIGHT）
 - Your Light （Live MIRROR）
 - b r o k e n （CD）
+- bliss （Live GREEN LIGHT）
 - inside You （MV）
+- inside you （Live Taipei）
+- inside you （Live 武道馆）
 - us （CD）
 - us （Live MIRROR）
 - us （Live Online）
 - us （Live SEVENTH）
+- us （Live Taipei）
 - us （Live UNZEPP）
 - us （Live visions）
 - us （MV）
 - us （THE Home TAKE）
 - us_Encore （Live Online）
 - おもかげ （CD）
+- おもかげ （Live Taipei）
 - 絆ノ奇跡 （CD）
 - 絆ノ奇跡_CD （MV）
 - 航海前夜 （CD）
 - 航海前夜 （Live Online）
+- 邂逅 （Live visions）
 
 ## 几田莉拉 (共 2 首)
 

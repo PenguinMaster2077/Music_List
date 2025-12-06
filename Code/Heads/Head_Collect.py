@@ -532,11 +532,9 @@ def summary_csv_to_markdown(csv_path):
     return output_md
 
 def mode_s(base_folder, scan_mode):
-    # 这里写你的第一种模式逻辑
     print(f"▶️ 启动模式 S，路径：{base_folder}")
     print(f"▶️ 启动模式 S，扫描方式：{scan_mode}")
-    # TODO: 你自己来写实现部分
-    artist = os.path.basename(base_folder.rstrip("/"))  # 提取歌手名字
+    artist = os.path.basename(base_folder.rstrip("/"))
     print(f"▶️ 启动模式 S，处理歌手: {artist} (路径: {base_folder})")
 
     if not os.path.isdir(base_folder):
@@ -563,12 +561,10 @@ def mode_s(base_folder, scan_mode):
     return results
 
 def mode_a(base_folder, scan_mode):
-    # 对应你原来的 process_all_artists_interactive
     print(f"▶️ 启动模式 A：扫描目录 {base_folder}")
     process_all_artists_interactive(base_folder, scan_mode)
 
 def mode_c(base_folder):
-    # 对应你原来的 CloudMusic 部分
     print(f"▶️ 启动模式 C：处理 Cloud Music {base_folder}/CloudMusic")
     csv_path = scan_and_export_summary(f"{base_folder}/CloudMusic")
     summary_csv_to_markdown(csv_path)
